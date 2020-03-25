@@ -1,0 +1,218 @@
+Starting ROM dump: Wed Mar 18 18:18:34 EDT 2020
+Dumping tables...
+Dumping item table.
+Dumping move table.
+Dumping world map to XML file...
+Dumping battles...
+Generating source files for battles: 00 Area KMR Part 1
+Added 3 hints.
+Found 10 structures through heuristics.
+
+Generating source files for battles: 01 Area KMR Part 2
+Added 6 hints.
+Found 11 structures through heuristics.
+Found 4 unknown pointers.
+Missing 2 sections!
+
+Generating source files for battles: 02 Area KMR Part 3
+Added 9 hints.
+Found 27 structures through heuristics.
+Found 1 unknown pointers.
+Missing 2 sections!
+
+Generating source files for battles: 03 Area MAC
+Added 30 hints.
+Found 3 structures through heuristics.
+Missing 1 sections!
+
+Generating source files for battles: 04 Area HOS
+Added 17 hints.
+Found 4 structures through heuristics.
+Found 1 unknown pointers.
+
+Generating source files for battles: 05 Area NOK
+Added 10 hints.
+Found 1 structures through heuristics.
+
+Generating source files for battles: 06 Area TRD Part 1
+Added 8 hints.
+Found 15 structures through heuristics.
+
+Generating source files for battles: 07 Area TRD Part 2
+Added 5 hints.
+Found 13 structures through heuristics.
+Found 1 unknown pointers.
+
+Generating source files for battles: 08 Area TRD Part 3
+Added 1 hints.
+Found 2 structures through heuristics.
+Missing 1 sections!
+
+Generating source files for battles: 09 Area IWA
+Added 8 hints.
+Found 1 unknown pointers.
+Missing 1 sections!
+
+Generating source files for battles: 0A Area SBK
+Added 3 hints.
+
+Generating source files for battles: 0B Area ISK Part 1
+Added 4 hints.
+Missing 2 sections!
+
+Generating source files for battles: 0C Area ISK Part 2
+Added 2 hints.
+Found 1 structures through heuristics.
+
+Generating source files for battles: 0D Area MIM
+Added 3 hints.
+Missing 1 sections!
+
+Generating source files for battles: 0E Area ARN
+Added 5 hints.
+Found 6 structures through heuristics.
+
+Generating source files for battles: 0F Area DGB
+Added 2 hints.
+
+Generating source files for battles: 10 Area OMO
+Added 22 hints.
+Found 1 structures through heuristics.
+Found 1 unknown pointers.
+Missing 1 sections!
+
+Generating source files for battles: 11 Area OMO2
+Added 5 hints.
+Found 32 unknown pointers.
+Missing 1 sections!
+
+Generating source files for battles: 12 Area OMO3
+Added 10 hints.
+Found 1 unknown pointers.
+
+Generating source files for battles: 13 Area KGR
+Added 1 hints.
+Found 4 structures through heuristics.
+
+Generating source files for battles: 14 Area JAN
+Added 15 hints.
+Found 2 structures through heuristics.
+
+Generating source files for battles: 15 Area JAN2
+Added 11 hints.
+Found 2 structures through heuristics.
+
+Generating source files for battles: 16 Area KZN
+Added 30 hints.
+Found 5 structures through heuristics.
+
+Generating source files for battles: 17 Area KZN2
+Added 6 hints.
+Found 10 structures through heuristics.
+Found 66 unknown pointers.
+
+Generating source files for battles: 18 Area FLO
+Added 44 hints.
+Found 121 structures through heuristics.
+Found 11 unknown pointers.
+
+Generating source files for battles: 19 Area FLO2
+Added 22 hints.
+Found 121 structures through heuristics.
+Found 11 unknown pointers.
+Missing 1 sections!
+
+Generating source files for battles: 1A Area TIK
+Added 8 hints.
+Found 7 structures through heuristics.
+Found 3 unknown pointers.
+
+Generating source files for battles: 1B Area TIK2
+Added 18 hints.
+Found 10 structures through heuristics.
+Found 3 unknown pointers.
+
+Generating source files for battles: 1C Area TIK3
+Added 2 hints.
+Found 7 structures through heuristics.
+Found 3 unknown pointers.
+
+Generating source files for battles: 1D Area SAM
+Added 24 hints.
+Found 22 structures through heuristics.
+Found 6 unknown pointers.
+
+Generating source files for battles: 1E Area SAM2
+Added 8 hints.
+Found 23 structures through heuristics.
+Found 22 unknown pointers.
+
+Generating source files for battles: 1F Area PRA
+Added 33 hints.
+Found 5 structures through heuristics.
+Missing 1 sections!
+
+Generating source files for battles: 20 Area PRA2
+Added 16 hints.
+Found 6 structures through heuristics.
+Found 4 unknown pointers.
+
+Generating source files for battles: 21 Area PRA3
+Added 26 hints.
+Found 5 structures through heuristics.
+Missing 1 sections!
+
+Generating source files for battles: 22 Area KPA
+Added 26 hints.
+Found 6 structures through heuristics.
+Missing 1 sections!
+
+Generating source files for battles: 23 Area KPA2
+Added 28 hints.
+Found 2 structures through heuristics.
+Found 1 unknown pointers.
+
+Generating source files for battles: 24 Area KPA3
+Added 13 hints.
+Found 1 structures through heuristics.
+
+Generating source files for battles: 25 Area KPA4
+Added 22 hints.
+Found 9 structures through heuristics.
+Found 2 unknown pointers.
+
+Generating source files for battles: 26 Area KKJ
+Added 1 hints.
+Found 1 unknown pointers.
+
+Generating source files for battles: 27 Area DIG
+Added 10 hints.
+Found 14 structures through heuristics.
+Found 6 unknown pointers.
+Missing 1 sections!
+
+Generating source files for battles: 29 Area OMO2_1
+Added 2 hints.
+Found 1 structures through heuristics.
+
+Generating source files for battles: 2A Area OMO2_2
+Added 3 hints.
+Found 1 structures through heuristics.
+
+Generating source files for battles: 2B Area OMO2_3
+Added 12 hints.
+
+Generating source files for battles: 2C Area OMO2_4
+Added 2 hints.
+
+Generating source files for battles: 2D Area OMO2_5
+Added 2 hints.
+
+Generating source files for battles: 2E Area OMO2_6
+Added 2 hints.
+
+181 total unknown pointers!
+17 total missing sections!
+Dumping world map to XML file...
+Saved config: dump.cfg
+Finished ROM dump: Wed Mar 18 18:18:48 EDT 2020

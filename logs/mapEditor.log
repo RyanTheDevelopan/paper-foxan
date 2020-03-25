@@ -1,0 +1,55 @@
+Initializing OpenGL (version 3.1 Mesa 19.2.8)
+Loaded arn_04.xml in 320.37 ms
+Found area config for arn_04
+Found map config for arn_04
+Loaded 33 textures from arn_tex
+Map background is arn_bg
+Loaded 5 guide sprites for the 3D cursor.
+Exec: Change Object Selection
+Exec: Change Object Selection
+Exec: Transform Selection
+Exec: Transform Selection
+Exec: Change Object Selection
+Exec: Transform Selection
+Saved arn_04.xml in 243.46 ms
+Exec: Change Object Selection
+Exec: Transform Selection
+Exec: Change Object Selection
+Exec: Transform Selection
+Exec: Change Object Selection
+Exec: Change Object Selection
+Exec: Transform Selection
+Exec: Change Object Selection
+Exec: Transform Selection
+Undo: Transform Selection
+Undo: Change Object Selection
+Undo: Transform Selection
+Undo: Change Object Selection
+Undo: Change Object Selection
+Undo: Transform Selection
+Undo: Change Object Selection
+Undo: Transform Selection
+Undo: Change Object Selection
+Undo: Transform Selection
+Undo: Change Object Selection
+Undo: Transform Selection
+Undo: Transform Selection
+Undo: Change Object Selection
+Undo: Change Object Selection
+Exec: Change Object Selection
+Saved arn_04.xml in 119.17 ms
+LWJGLException
+X Error - disp: 0x7f695ca5bb50 serial: 54774 error: BadWindow (invalid Window parameter) request_code: 2 minor_code: 0
+  at org.lwjgl.opengl.LinuxDisplay.globalErrorHandler(LinuxDisplay.java:320)
+  at org.lwjgl.opengl.LinuxKeyboard.nSetDetectableKeyRepeat(Native Method)
+  at org.lwjgl.opengl.LinuxKeyboard.setDetectableKeyRepeat(LinuxKeyboard.java:152)
+  at org.lwjgl.opengl.LinuxKeyboard.destroy(LinuxKeyboard.java:163)
+  at org.lwjgl.opengl.LinuxDisplay.destroyKeyboard(LinuxDisplay.java:1261)
+  at org.lwjgl.input.Keyboard.destroy(Keyboard.java:357)
+  at org.lwjgl.opengl.Display.destroyWindow(Display.java:349)
+  at org.lwjgl.opengl.Display.access$400(Display.java:65)
+  at org.lwjgl.opengl.Display$5.destroy(Display.java:835)
+  at org.lwjgl.opengl.Display.destroy(Display.java:1095)
+  at editor.MapEditor.launch(MapEditor.java:503)
+  at editor.MapEditor.launch(MapEditor.java:455)
+  at main.StarRodDev.main(StarRodDev.java:278)
