@@ -236,7 +236,7 @@
 		<Sprite id="E9" src="E9" name="Leaf"/>
 	</NpcSprites>
 	<PlayerSprites>
-		<Sprite id="1" src="01" name="Mario 1"/>
+		<Sprite id="1" src="01" name="Foxan 1"/>
 		<Sprite id="2" src="02" name="Mario 2"/>
 		<Sprite id="3" src="03" name="Mario 3"/>
 		<Sprite id="4" src="04" name="Mario 4"/>

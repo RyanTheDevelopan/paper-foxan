@@ -1,58 +1,58 @@
-Wed Mar 18 20:33:41 EDT 2020
+Fri Mar 27 17:04:45 EDT 2020
 Preparing patching process.
 Building string data...
-Reading strings from: 27 Shop Messages.str
-Reading strings from: 0B Chapter 0.str
-Reading strings from: 0D Chapter 2.str
-Reading strings from: 06 Toad Town Warehouse Sector.str
-Reading strings from: 02 Toad Town Gate Sector.str
-Reading strings from: 13 Bowser's Castle.str
-Reading strings from: 26 Item Names.str
-Reading strings from: 19 Map Tattles.str
-Reading strings from: 01 Postgame Celebration.str
-Reading strings from: 1D Menus I.str
-Reading strings from: 08 Minigames.str
-Reading strings from: 2E Credits.str
-Reading strings from: 07 Toad Town Docks Sector.str
-Reading strings from: 0E Chapter 3.str
-Reading strings from: 29 Enemy Names.str
-Reading strings from: 09 Castle Grounds.str
-Reading strings from: 11 Chapter 6.str
-Reading strings from: 0F Chapter 4.str
-Reading strings from: 23 Item Descriptions I.str
-Reading strings from: 1C Enemy Tattles.str
-Reading strings from: 12 Chapter 7.str
-Reading strings from: 00 Introduction.str
-Reading strings from: 21 Advice Fortunes.str
-Reading strings from: 1E Choices.str
-Reading strings from: 2B Partner Moves.str
-Reading strings from: 0A Shooting Star Summit.str
-Reading strings from: 05 Toad Town Train Sector.str
-Reading strings from: 25 Item Descriptions III.str
-Reading strings from: 22 Treasure Fortunes.str
-Reading strings from: 18 Gossip Bulletin.str
 Reading strings from: 24 Item Descriptions II.str
+Reading strings from: 0F Chapter 4.str
+Reading strings from: 26 Item Names.str
+Reading strings from: 2C Quiz Questions.str
+Reading strings from: 04 Toad Town Bridge Sector.str
+Reading strings from: 2B Partner Moves.str
+Reading strings from: 1D Menus I.str
+Reading strings from: 2A Mario Moves.str
+Reading strings from: 0D Chapter 2.str
+Reading strings from: 18 Gossip Bulletin.str
+Reading strings from: 05 Toad Town Train Sector.str
+Reading strings from: 21 Advice Fortunes.str
+Reading strings from: 1A NPC Tattles.str
+Reading strings from: 14 Peach Segments.str
+Reading strings from: 13 Bowser's Castle.str
+Reading strings from: 01 Postgame Celebration.str
+Reading strings from: 20 Party Letters + Luigi's Diary.str
+Reading strings from: 27 Shop Messages.str
+Reading strings from: 12 Chapter 7.str
+Reading strings from: 1E Choices.str
+Reading strings from: 28 Partner Descriptions.str
+Reading strings from: 22 Treasure Fortunes.str
+Reading strings from: 15 Koopa Koot Favors.str
+Reading strings from: 1C Enemy Tattles.str
+Reading strings from: 02 Toad Town Gate Sector.str
+Reading strings from: 1B Entity Tattles.str
+Reading strings from: 2E Credits.str
+Reading strings from: 25 Item Descriptions III.str
+Reading strings from: 0B Chapter 0.str
+Reading strings from: 10 Chapter 5.str
+Reading strings from: 17 News Bulletin.str
+Reading strings from: 00 Introduction.str
+Reading strings from: 08 Minigames.str
+Reading strings from: 19 Map Tattles.str
+Reading strings from: 0E Chapter 3.str
+Reading strings from: 0C Chapter 1.str
+Reading strings from: 1F Menus II.str
+Reading strings from: 07 Toad Town Docks Sector.str
+Reading strings from: 16 Russ T Advice.str
+Reading strings from: 0A Shooting Star Summit.str
 Reading strings from: 2F Custom.str
 Reading strings from: 2D Quiz Options.str
-Reading strings from: 10 Chapter 5.str
-Reading strings from: 1F Menus II.str
-Reading strings from: 15 Koopa Koot Favors.str
-Reading strings from: 04 Toad Town Bridge Sector.str
-Reading strings from: 16 Russ T Advice.str
-Reading strings from: 1A NPC Tattles.str
-Reading strings from: 2C Quiz Questions.str
+Reading strings from: 06 Toad Town Warehouse Sector.str
+Reading strings from: 09 Castle Grounds.str
+Reading strings from: 23 Item Descriptions I.str
+Reading strings from: 11 Chapter 6.str
 Reading strings from: 03 Toad Town Castle Sector.str
-Reading strings from: 1B Entity Tattles.str
-Reading strings from: 0C Chapter 1.str
-Reading strings from: 28 Partner Descriptions.str
-Reading strings from: 14 Peach Segments.str
-Reading strings from: 2A Mario Moves.str
-Reading strings from: 20 Party Letters + Luigi's Diary.str
-Reading strings from: 17 News Bulletin.str
+Reading strings from: 29 Enemy Names.str
 Reading map config files...
 Indexing map objects...
 Loaded map index.
-Using -318.96 MB for map data.
+Using 108.54 MB for map data.
 Indexing animations...
 Using 0.00 MB for sprite data.
 Writing map config table...
@@ -581,136 +581,326 @@ Writing ui/box/A4E10 to ROM.
 Writing ui/box/A4E90 to ROM.
 Writing ui/box/A4F10 to ROM.
 Building texture archives...
-Building texture archive: hos_tex.txa
-Writing texture: hos_akaritif
-Writing texture: hos_berosaidetif
-Writing texture: hos_demo_backtif
-Writing texture: hos_demo_star_btif
-Writing texture: hos_flower_02tif
-Writing texture: hos_frametif
-Writing texture: hos_fx_cartaintif
-Writing texture: hos_grayframetif
-Writing texture: hos_h_bed2tif
-Writing texture: hos_h_ha2tif
-Writing texture: hos_h_ha6tif
-Writing texture: hos_h_hana_02tif
-Writing texture: hos_h_hatif
-Writing texture: hos_h_hosikabetif
-Writing texture: hos_h_hutontif
-Writing texture: hos_h_jimentif
-Writing texture: hos_h_kabe3tif
-Writing texture: hos_h_kabe5tif
-Writing texture: hos_h_kabe6tif
-Writing texture: hos_h_karpettif
-Writing texture: hos_h_kitif
-Writing texture: hos_h_kusa02tif
-Writing texture: hos_h_mado2tif
-Writing texture: hos_h_madotif
-Writing texture: hos_h_renga3tif
-Writing texture: hos_h_renga4tif
-Writing texture: hos_h_sakutif
-Writing texture: hos_h_sinden2tif
-Writing texture: hos_h_sinden7tif
-Writing texture: hos_h_star_02tif
-Writing texture: hos_h_tobira2tif
-Writing texture: hos_h_tobira3tif
-Writing texture: hos_h_tobira4tif
-Writing texture: hos_h_yane2tif
-Writing texture: hos_hasiratif
-Writing texture: hos_hikaritif
-Writing texture: hos_hos_jimentif
-Writing texture: hos_hos_kumotif
-Writing texture: hos_hos9dentif
-Writing texture: hos_hutikusatif
-Writing texture: hos_iwa_big_demotif
-Writing texture: hos_jimen2tif
-Writing texture: hos_jimtif
-Writing texture: hos_kabe_blocktif
-Writing texture: hos_kabe2tif
-Writing texture: hos_kabe3tif
-Writing texture: hos_kazaritif
-Writing texture: hos_kinopiotif
-Writing texture: hos_kirakiratif
-Writing texture: hos_kousokutif
-Writing texture: hos_kumo2tif
-Writing texture: hos_kumo3tif
-Writing texture: hos_kumo4tif
-Writing texture: hos_kumo5tif
-Writing texture: hos_kumo6tif
-Writing texture: hos_kumo7tif
-Writing texture: hos_kusa5tif
-Writing texture: hos_kusshontif
-Writing texture: hos_linestartif
-Writing texture: hos_mac_edgetif
-Writing texture: hos_mokume2tif
-Writing texture: hos_mokume3tif
-Writing texture: hos_mon2tif
-Writing texture: hos_moontif
-Writing texture: hos_mtif
-Writing texture: hos_naminami3tif
-Writing texture: hos_ochi_mariotif
-Writing texture: hos_piramitif
-Writing texture: hos_rainbow_btif
-Writing texture: hos_rainbowtif
-Writing texture: hos_renga2tif
-Writing texture: hos_rengamiti03tif
-Writing texture: hos_rengatif
-Writing texture: hos_ryusei_gou_btif
-Writing texture: hos_ryusei_goutif
-Writing texture: hos_ryuseitif
-Writing texture: hos_shirokabetif
-Writing texture: hos_shiroyanetif
-Writing texture: hos_sirokurotif
-Writing texture: hos_star_door_demotif
-Writing texture: hos_stargate_ctif
-Writing texture: hos_stargate_etif
-Writing texture: hos_stargatetif
-Writing texture: hos_sterlighttif
-Writing texture: hos_t_hei2tif
-Writing texture: hos_t_mac_fieldtif
-Writing texture: hos_t_mac_house7tif
-Writing texture: hos_t_mac_sakutif
-Writing texture: hos_tukitif
-Writing texture: hos_water_sokotif
-Writing texture: hos_water3tif
-Writing texture: hos_watertif
-Writing texture: hos_yellow_blocktif
-Writing texture: hos_yuka6tif
-Writing texture: hos_yukatif
-Building texture archive: arn_tex.txa
-Writing texture: arn_berosaidetif
-Writing texture: arn_doa2tif
-Writing texture: arn_doa3tif
-Writing texture: arn_doatif
-Writing texture: arn_frametif
-Writing texture: arn_grayframetif
-Writing texture: arn_haguruma1tif
-Writing texture: arn_hane1tif
-Writing texture: arn_hari1tif
-Writing texture: arn_haritif
-Writing texture: arn_hasira1tif
-Writing texture: arn_iwa_4tif
-Writing texture: arn_jamp1tif
-Writing texture: arn_jamp2tif
-Writing texture: arn_jimen_edgetif
-Writing texture: arn_jimenbtif
-Writing texture: arn_jimenctif
-Writing texture: arn_kabe10tif
-Writing texture: arn_kabe1tif
-Writing texture: arn_kabe2tif
-Writing texture: arn_kabe6tif
-Writing texture: arn_ki5tif
-Writing texture: arn_kusatif
-Writing texture: arn_mado1tif
-Writing texture: arn_mado2tif
-Writing texture: arn_renga1tif
-Writing texture: arn_star1tif
-Writing texture: arn_waku2tif
-Writing texture: arn_yane1tif
-Writing texture: arn_yane3tif
-Writing texture: arn_zassoutif
-Writing texture: arn_zimen2tif
-Writing texture: arn_zimen4tif
+Building texture archive: gv__tex.txa
+Writing texture: gv__atif
+Writing texture: gv__entif
+Writing texture: gv__etif
+Writing texture: gv__gtif
+Writing texture: gv__mtif
+Writing texture: gv__otif
+Writing texture: gv__rtif
+Writing texture: gv__vtif
+Building texture archive: tst_tex.txa
+Writing texture: tst_berosaidetif
+Writing texture: tst_c_block02rgb
+Writing texture: tst_dokantif
+Writing texture: tst_flo_kusa1tif
+Writing texture: tst_flo_kusa2tif
+Writing texture: tst_flo_roadtif
+Writing texture: tst_flower_ac4tif
+Writing texture: tst_flower_edge3tif
+Writing texture: tst_flower_field3tif
+Writing texture: tst_flower_top2tif
+Writing texture: tst_flower_top3tif
+Writing texture: tst_frametif
+Writing texture: tst_green_etif
+Writing texture: tst_hana_ftif
+Writing texture: tst_hanatabatif
+Writing texture: tst_happa2tif
+Writing texture: tst_hashi33tif
+Writing texture: tst_hi_blocktif
+Writing texture: tst_ibaratif
+Writing texture: tst_ichimatsu1tif
+Writing texture: tst_ichimatsu4tif
+Writing texture: tst_itatif
+Writing texture: tst_kabe12_wtif
+Writing texture: tst_kabe12tif
+Writing texture: tst_ki_atif
+Writing texture: tst_kinoha5tif
+Writing texture: tst_kinoita2tif
+Writing texture: tst_kirakiratif
+Writing texture: tst_kuki3tif
+Writing texture: tst_log_sidetif
+Writing texture: tst_mac_fieldtif
+Writing texture: tst_mario_rtif
+Writing texture: tst_miki4tif
+Writing texture: tst_mikitif
+Writing texture: tst_pra_backtif
+Writing texture: tst_pra_field2tif
+Writing texture: tst_pra_field4tif
+Writing texture: tst_pra_hasgira2tif
+Writing texture: tst_pra_hashiratif
+Writing texture: tst_pra_icetif
+Writing texture: tst_pra_walltif
+Writing texture: tst_reef_etif
+Writing texture: tst_reef_ktif
+Writing texture: tst_renga_edgetif
+Writing texture: tst_renga10tif
+Writing texture: tst_renga2tif
+Writing texture: tst_rengatif
+Writing texture: tst_s_roadberotif
+Writing texture: tst_s_roadtif
+Writing texture: tst_sirohanatif
+Writing texture: tst_togetif
+Writing texture: tst_water_sokotif
+Writing texture: tst_wood_ctif
+Writing texture: tst_wood_floor_ctif
+Writing texture: tst_wooden_boardtif
+Writing texture: tst_woody_plate_btif
+Writing texture: tst_woody_plate_itif
+Writing texture: tst_yougan_sidetif
+Writing texture: tst_yougantif
+Writing texture: tst_yuka2tif
+Building texture archive: jan_tex.txa
+Writing texture: jan_bananahatif
+Writing texture: jan_berosaidetif
+Writing texture: jan_block_ctif
+Writing texture: jan_boaltif
+Writing texture: jan_cycad_reeftif
+Writing texture: jan_cycadtif
+Writing texture: jan_daikinohatif
+Writing texture: jan_dekaikitif
+Writing texture: jan_flower_02tif
+Writing texture: jan_frametif
+Writing texture: jan_green_ctif
+Writing texture: jan_hana_ftif
+Writing texture: jan_hikiato2tif
+Writing texture: jan_hoppetif
+Writing texture: jan_hunsuitif
+Writing texture: jan_iwashitatif
+Writing texture: jan_iwatemaetif
+Writing texture: jan_iwayukatif
+Writing texture: jan_j_isi2tif
+Writing texture: jan_j_isitif
+Writing texture: jan_j_iwatif
+Writing texture: jan_j_kazariha2tif
+Writing texture: jan_j_sakutif
+Writing texture: jan_j_tuta02tif
+Writing texture: jan_j_tuta06tif
+Writing texture: jan_j_tutatif
+Writing texture: jan_j_tutitif
+Writing texture: jan_jan_jimentif
+Writing texture: jan_jan_kabemizutif
+Writing texture: jan_jan_kabetif
+Writing texture: jan_jan_kukitif
+Writing texture: jan_jan_marutatif
+Writing texture: jan_jan_mizukabetif
+Writing texture: jan_jan_reef02tif
+Writing texture: jan_jan_reeftif
+Writing texture: jan_jan_sigemi_02tif
+Writing texture: jan_jan_sigemitif
+Writing texture: jan_jan_treetif
+Writing texture: jan_janguluhatif
+Writing texture: jan_jangulukusa_02tif
+Writing texture: jan_jangulukusa4tif
+Writing texture: jan_jangulukusatif
+Writing texture: jan_jankitif
+Writing texture: jan_jb_hasira3tif
+Writing texture: jan_jb_isitif
+Writing texture: jan_jb_moyou2tif
+Writing texture: jan_jb_moyou3tif
+Writing texture: jan_kagotif
+Writing texture: jan_kanbantif
+Writing texture: jan_kassya2tif
+Writing texture: jan_kassyatif
+Writing texture: jan_kinoha5tif
+Writing texture: jan_kinoita3tif
+Writing texture: jan_kinoita4tif
+Writing texture: jan_kinoitatif
+Writing texture: jan_kinokusa2tif
+Writing texture: jan_kinokusa6tif
+Writing texture: jan_kinokusatif
+Writing texture: jan_kinometif
+Writing texture: jan_kinopiotif
+Writing texture: jan_kokekusatif
+Writing texture: jan_kujira_haratif
+Writing texture: jan_kusa5tif
+Writing texture: jan_kusatif
+Writing texture: jan_mac_house6tif
+Writing texture: jan_nami2tif
+Writing texture: jan_naminami4tif
+Writing texture: jan_namitif
+Writing texture: jan_qchannosutif
+Writing texture: jan_rock_btif
+Writing texture: jan_ropetif
+Writing texture: jan_sima4tif
+Writing texture: jan_sunahama4tif
+Writing texture: jan_t_dokankun3tif
+Writing texture: jan_t_iwahashitif
+Writing texture: jan_t_iwayougantif
+Writing texture: jan_t_sizuku1tif
+Writing texture: jan_to1_iwakabetif
+Writing texture: jan_tree_jantif
+Writing texture: jan_tutitutitif
+Writing texture: jan_yasiha4tif
+Writing texture: jan_yasiki2tif
+Writing texture: jan_yasimi2tif
+Writing texture: jan_yougantif
+Building texture archive: tik_tex.txa
+Writing texture: tik_bin_rbr01tif
+Writing texture: tik_doa1tif
+Writing texture: tik_frozentif
+Writing texture: tik_grayframetif
+Writing texture: tik_icetif
+Writing texture: tik_kan1tif
+Writing texture: tik_kinoitatif
+Writing texture: tik_mac_doortif
+Writing texture: tik_oregl3tif
+Writing texture: tik_t_chear2tif
+Writing texture: tik_t_cheartif
+Writing texture: tik_t_doatif
+Writing texture: tik_t_dokankun2tif
+Writing texture: tik_t_dokankun3tif
+Writing texture: tik_t_ice3tif
+Writing texture: tik_t_katen1tif
+Writing texture: tik_t_kazari1tif
+Writing texture: tik_t_kiri1tif
+Writing texture: tik_t_sakutif
+Writing texture: tik_t_sizuku1tif
+Writing texture: tik_t_taki1tif
+Writing texture: tik_t_taki5tif
+Writing texture: tik_t_taki6tif
+Writing texture: tik_t_taki7tif
+Writing texture: tik_t_turara1tif
+Writing texture: tik_t_yuka1tif
+Writing texture: tik_tn_kabe3tif
+Writing texture: tik_togetif
+Building texture archive: obk_tex.txa
+Writing texture: obk_bedtif
+Writing texture: obk_danrotif
+Writing texture: obk_denki_3btif
+Writing texture: obk_denki_rtif
+Writing texture: obk_denki64tif
+Writing texture: obk_door_01_btif
+Writing texture: obk_door_1tif
+Writing texture: obk_doortif
+Writing texture: obk_hashira_atif
+Writing texture: obk_hashira_u_1tif
+Writing texture: obk_hashiratif
+Writing texture: obk_hei_1tif
+Writing texture: obk_heitif
+Writing texture: obk_hi_1_atif
+Writing texture: obk_hibitif
+Writing texture: obk_hokori1tif
+Writing texture: obk_hon2tif
+Writing texture: obk_howahowa_mtif
+Writing texture: obk_howahowatif
+Writing texture: obk_kabe_heyatif
+Writing texture: obk_kabebe_12tif
+Writing texture: obk_kabebe_mtif
+Writing texture: obk_kabebetif
+Writing texture: obk_kaidan_01tif
+Writing texture: obk_kaidan_3tif
+Writing texture: obk_kaidan_5tif
+Writing texture: obk_kaidan_6tif
+Writing texture: obk_kaidantif
+Writing texture: obk_kusari_stif
+Writing texture: obk_kusaritif
+Writing texture: obk_mado_3tif
+Writing texture: obk_mattif
+Writing texture: obk_nuno_1tif
+Writing texture: obk_nuno_2tif
+Writing texture: obk_nuno_3tif
+Writing texture: obk_reco2tif
+Writing texture: obk_sofatif
+Writing texture: obk_sotokabetif
+Writing texture: obk_tabul_1tif
+Writing texture: obk_tabultif
+Writing texture: obk_takitif
+Writing texture: obk_tansutif
+Writing texture: obk_tere_e_a_2tif
+Writing texture: obk_tere_tere_ttif
+Writing texture: obk_tere_teretif
+Writing texture: obk_tererere_1tif
+Writing texture: obk_tererere_2tif
+Writing texture: obk_tkomonotif
+Writing texture: obk_to_1tif
+Writing texture: obk_tokeitif
+Writing texture: obk_totif
+Writing texture: obk_yuka_mctif
+Writing texture: obk_yuka_t1tif
+Writing texture: obk_yuka_tairu3tif
+Writing texture: obk_yuka_tairutif
+Building texture archive: trd_tex.txa
+Writing texture: trd_ana_ctif
+Writing texture: trd_berosaidetif
+Writing texture: trd_block_dtif
+Writing texture: trd_block_e2ttif
+Writing texture: trd_block_etif
+Writing texture: trd_doatif
+Writing texture: trd_frametif
+Writing texture: trd_futa1tif
+Writing texture: trd_grayframetif
+Writing texture: trd_green_etif
+Writing texture: trd_hikaritif
+Writing texture: trd_kabe10tif
+Writing texture: trd_kabe3tif
+Writing texture: trd_kabe5tif
+Writing texture: trd_kabe6tif
+Writing texture: trd_kabe8tif
+Writing texture: trd_kabekusatif
+Writing texture: trd_kabetif
+Writing texture: trd_kamitif
+Writing texture: trd_kawa_atif
+Writing texture: trd_kitif
+Writing texture: trd_komatif
+Writing texture: trd_kubiwatif
+Writing texture: trd_kusaritif
+Writing texture: trd_mado6tif
+Writing texture: trd_mado7tif
+Writing texture: trd_me_btif
+Writing texture: trd_nuno_ctif
+Writing texture: trd_nuno_etif
+Writing texture: trd_peachtif
+Writing texture: trd_saku2tif
+Writing texture: trd_saku3tif
+Writing texture: trd_saku4tif
+Writing texture: trd_saku5tif
+Writing texture: trd_sakutif
+Writing texture: trd_sui1tif
+Writing texture: trd_t_sui2tif
+Writing texture: trd_trd_block2tif
+Writing texture: trd_trd_kusaritif
+Writing texture: trd_trd_taki1tif
+Writing texture: trd_trd_taki2tif
+Writing texture: trd_water_sokotif
+Writing texture: trd_water3tif
+Writing texture: trd_yuka3tif
+Writing texture: trd_yuka4tif
+Building texture archive: isk_tex.txa
+Writing texture: isk_TG2tif
+Writing texture: isk_ana_ctif
+Writing texture: isk_block_ctif
+Writing texture: isk_blocktif
+Writing texture: isk_coin_walltif
+Writing texture: isk_en_2tif
+Writing texture: isk_grayframetif
+Writing texture: isk_hatenatif
+Writing texture: isk_hekiga12tif
+Writing texture: isk_hekiga3tif
+Writing texture: isk_hekiga7tif
+Writing texture: isk_hekiga8tif
+Writing texture: isk_hekiga9tif
+Writing texture: isk_hikaritif
+Writing texture: isk_hitugi3tif
+Writing texture: isk_isk_block02btif
+Writing texture: isk_isk_block03btif
+Writing texture: isk_isk_block04btif
+Writing texture: isk_isk_yuka1tif
+Writing texture: isk_kabe_htif
+Writing texture: isk_mark2tif
+Writing texture: isk_oreme_btif
+Writing texture: isk_sabaku_btif
+Writing texture: isk_sakutif
+Writing texture: isk_sikaku_2tif
+Writing texture: isk_suna_4tif
+Writing texture: isk_suna3tif
+Writing texture: isk_tizu5tif
+Writing texture: isk_tizu6tif
+Writing texture: isk_wang1tif
+Writing texture: isk_wang2tif
+Writing texture: isk_wang3tif
+Writing texture: isk_yuka_ctif
 Building texture archive: omo_tex.txa
 Writing texture: omo_1tif
 Writing texture: omo_2tif
@@ -809,17 +999,48 @@ Writing texture: omo_yane_atif
 Writing texture: omo_yuka_block3tif
 Writing texture: omo_yuka_block4_1tif
 Writing texture: omo_yuka_block4tif
-Building texture archive: kgr_tex.txa
-Writing texture: kgr_binn2tif
-Writing texture: kgr_grayframetif
-Writing texture: kgr_kinoitatif
-Writing texture: kgr_m_honetif
-Writing texture: kgr_m_kabe2tif
-Writing texture: kgr_m_kabetif
-Writing texture: kgr_mac_berotif
-Writing texture: kgr_mac_doortif
-Writing texture: kgr_mac_house2tif
-Writing texture: kgr_water3tif
+Building texture archive: dgb_tex.txa
+Writing texture: dgb_berosaidetif
+Writing texture: dgb_ciock3tif
+Writing texture: dgb_d_ana04tif
+Writing texture: dgb_d_anatif
+Writing texture: dgb_d_chear2tif
+Writing texture: dgb_doatif
+Writing texture: dgb_frametif
+Writing texture: dgb_hasira1tif
+Writing texture: dgb_hibi1tif
+Writing texture: dgb_hibi3tif
+Writing texture: dgb_hikaritif
+Writing texture: dgb_hokori1tif
+Writing texture: dgb_isuasi1tif
+Writing texture: dgb_iwa_4tif
+Writing texture: dgb_jimen_edgetif
+Writing texture: dgb_jimenbtif
+Writing texture: dgb_jimenctif
+Writing texture: dgb_kabe10tif
+Writing texture: dgb_kabe1tif
+Writing texture: dgb_kabe2tif
+Writing texture: dgb_kabe3tif
+Writing texture: dgb_kabe6tif
+Writing texture: dgb_katen1tif
+Writing texture: dgb_katen3tif
+Writing texture: dgb_kazari3tif
+Writing texture: dgb_ki5tif
+Writing texture: dgb_mado1tif
+Writing texture: dgb_mado2tif
+Writing texture: dgb_moyou1tif
+Writing texture: dgb_moyou2tif
+Writing texture: dgb_moyou3tif
+Writing texture: dgb_syokudaitif
+Writing texture: dgb_tenjo2tif
+Writing texture: dgb_tesuri1tif
+Writing texture: dgb_tesuri2tif
+Writing texture: dgb_tesuri3tif
+Writing texture: dgb_togetif
+Writing texture: dgb_yuka1tif
+Writing texture: dgb_zassoutif
+Writing texture: dgb_zyu1tif
+Writing texture: dgb_zyu2tif
 Building texture archive: mim_tex.txa
 Writing texture: mim_bedtif
 Writing texture: mim_berosaidetif
@@ -869,6 +1090,339 @@ Writing texture: mim_wood_floor_ctif
 Writing texture: mim_yuka_t1tif
 Writing texture: mim_yuka_tairu3tif
 Writing texture: mim_zimen2tif
+Building texture archive: kzn_tex.txa
+Writing texture: kzn_boaltif
+Writing texture: kzn_bubble_3tif
+Writing texture: kzn_bubbletif
+Writing texture: kzn_fpack_headtif
+Writing texture: kzn_fpack_kuki0tif
+Writing texture: kzn_fpack_kuki1tif
+Writing texture: kzn_fpack_shokushutif
+Writing texture: kzn_goron_togetif
+Writing texture: kzn_gorontif
+Writing texture: kzn_grayframetif
+Writing texture: kzn_hibitif
+Writing texture: kzn_iwashitatif
+Writing texture: kzn_iwatemae_itif
+Writing texture: kzn_iwatemaetif
+Writing texture: kzn_iwayukatif
+Writing texture: kzn_kassya2tif
+Writing texture: kzn_kassyatif
+Writing texture: kzn_kemuritif
+Writing texture: kzn_kzn_renga1tif
+Writing texture: kzn_ropetif
+Writing texture: kzn_t_ha_iwahashiratif
+Writing texture: kzn_t_iwahashiratif
+Writing texture: kzn_t_iwahashitif
+Writing texture: kzn_t_iwakabe2_iitif
+Writing texture: kzn_t_iwakabe2tif
+Writing texture: kzn_t_iwapointtif
+Writing texture: kzn_t_iwayougantif
+Writing texture: kzn_t1_iwakabetif
+Writing texture: kzn_tatetif
+Writing texture: kzn_to1_iwakabetif
+Writing texture: kzn_yougan05tif
+Writing texture: kzn_yougantif
+Writing texture: kzn_yuka_btif
+Building texture archive: flo_tex.txa
+Writing texture: flo_baraha2tif
+Writing texture: flo_barahanatif
+Writing texture: flo_barahatif
+Writing texture: flo_barakakine7tif
+Writing texture: flo_baratulutif
+Writing texture: flo_berosaidetif
+Writing texture: flo_botantif
+Writing texture: flo_chibikumo2tif
+Writing texture: flo_chibikumotif
+Writing texture: flo_comp03tif
+Writing texture: flo_f_achi2tif
+Writing texture: flo_f_dokantif
+Writing texture: flo_f_hatenatif
+Writing texture: flo_f_hikarabi4tif
+Writing texture: flo_f_kusa02tif
+Writing texture: flo_f_kusatif
+Writing texture: flo_f_saku5tif
+Writing texture: flo_f_sitakusatif
+Writing texture: flo_f_yane02tif
+Writing texture: flo_flo_hanatif
+Writing texture: flo_flo_kusa1tif
+Writing texture: flo_flo_kusa2tif
+Writing texture: flo_flo_renga2tif
+Writing texture: flo_flo_roadtif
+Writing texture: flo_flo_top2tif
+Writing texture: flo_flower_dtif
+Writing texture: flo_flower_edge4tif
+Writing texture: flo_flower_field3tif
+Writing texture: flo_flower_top3tif
+Writing texture: flo_frametif
+Writing texture: flo_hanatabatif
+Writing texture: flo_happa2tif
+Writing texture: flo_happa3tif
+Writing texture: flo_happa4tif
+Writing texture: flo_hasiratif
+Writing texture: flo_hunsuitif
+Writing texture: flo_ibaratif
+Writing texture: flo_jack3tif
+Writing texture: flo_jack4tif
+Writing texture: flo_ki_atif
+Writing texture: flo_kinoha5tif
+Writing texture: flo_kinoha6tif
+Writing texture: flo_kinoha7tif
+Writing texture: flo_kinoita3tif
+Writing texture: flo_kinoitatif
+Writing texture: flo_kirikabutif
+Writing texture: flo_kuki6tif
+Writing texture: flo_kumo2tif
+Writing texture: flo_kumokumo2tif
+Writing texture: flo_kumokumotif
+Writing texture: flo_kumonokage2tif
+Writing texture: flo_kumonoue11tif
+Writing texture: flo_kumonoue12tif
+Writing texture: flo_kumonoue15tif
+Writing texture: flo_kumonoue18tif
+Writing texture: flo_kumonoue21tif
+Writing texture: flo_kumonoue22tif
+Writing texture: flo_kumonoue23tif
+Writing texture: flo_kumotif
+Writing texture: flo_kuristalu2tif
+Writing texture: flo_kuristalutif
+Writing texture: flo_marutakuntif
+Writing texture: flo_mizu_kabetif
+Writing texture: flo_moguraana2tif
+Writing texture: flo_mon2tif
+Writing texture: flo_mon3tif
+Writing texture: flo_naminami4tif
+Writing texture: flo_niji2tif
+Writing texture: flo_niji3tif
+Writing texture: flo_oldtree_metif
+Writing texture: flo_oldtree_reef3tif
+Writing texture: flo_panji02tif
+Writing texture: flo_panjitif
+Writing texture: flo_renga3tif
+Writing texture: flo_renga4tif
+Writing texture: flo_rengatif
+Writing texture: flo_ryuusuitif
+Writing texture: flo_shabon4tif
+Writing texture: flo_shabon6tif
+Writing texture: flo_shabonnhanatif
+Writing texture: flo_sirohana2tif
+Writing texture: flo_sirohanatif
+Writing texture: flo_tetugousitif
+Writing texture: flo_tobiratif
+Writing texture: flo_tutitif
+Writing texture: flo_watertif
+Writing texture: flo_yabu2tif
+Building texture archive: arn_tex.txa
+Writing texture: arn_berosaidetif
+Writing texture: arn_doa2tif
+Writing texture: arn_doa3tif
+Writing texture: arn_doatif
+Writing texture: arn_frametif
+Writing texture: arn_grayframetif
+Writing texture: arn_haguruma1tif
+Writing texture: arn_hane1tif
+Writing texture: arn_hari1tif
+Writing texture: arn_haritif
+Writing texture: arn_hasira1tif
+Writing texture: arn_iwa_4tif
+Writing texture: arn_jamp1tif
+Writing texture: arn_jamp2tif
+Writing texture: arn_jimen_edgetif
+Writing texture: arn_jimenbtif
+Writing texture: arn_jimenctif
+Writing texture: arn_kabe10tif
+Writing texture: arn_kabe1tif
+Writing texture: arn_kabe2tif
+Writing texture: arn_kabe6tif
+Writing texture: arn_ki5tif
+Writing texture: arn_kusatif
+Writing texture: arn_mado1tif
+Writing texture: arn_mado2tif
+Writing texture: arn_renga1tif
+Writing texture: arn_star1tif
+Writing texture: arn_waku2tif
+Writing texture: arn_yane1tif
+Writing texture: arn_yane3tif
+Writing texture: arn_zassoutif
+Writing texture: arn_zimen2tif
+Writing texture: arn_zimen4tif
+Building texture archive: dro_tex.txa
+Writing texture: dro_berosaidetif
+Writing texture: dro_binn2tif
+Writing texture: dro_blocktif
+Writing texture: dro_d_t_doatif
+Writing texture: dro_d_tubo01tif
+Writing texture: dro_doa1tif
+Writing texture: dro_flower_02tif
+Writing texture: dro_frametif
+Writing texture: dro_gyuutann2tif
+Writing texture: dro_hasira1tif
+Writing texture: dro_hata2tif
+Writing texture: dro_hon2tif
+Writing texture: dro_hon3tif
+Writing texture: dro_honetif
+Writing texture: dro_kabe_htif
+Writing texture: dro_kabe1tif
+Writing texture: dro_kannbanntif
+Writing texture: dro_kemutif
+Writing texture: dro_kinopiotif
+Writing texture: dro_kudamonotif
+Writing texture: dro_mado6tif
+Writing texture: dro_moyou2tif
+Writing texture: dro_nuno2tif
+Writing texture: dro_nunoyanetif
+Writing texture: dro_papyrustif
+Writing texture: dro_posuta2tif
+Writing texture: dro_posutatif
+Writing texture: dro_ranputif
+Writing texture: dro_road3tif
+Writing texture: dro_sabakureeftif
+Writing texture: dro_sakutif
+Writing texture: dro_spider_nettif
+Writing texture: dro_suna3tif
+Writing texture: dro_taru1tif
+Writing texture: dro_wall_ftif
+Building texture archive: end_tex.txa
+Writing texture: end_bg_yamatif
+Writing texture: end_castle_atif
+Writing texture: end_castle_btif
+Writing texture: end_cycadtif
+Writing texture: end_ensekitif
+Writing texture: end_green_gradetif
+Writing texture: end_greentif
+Writing texture: end_heiho_neontif
+Writing texture: end_hoppetif
+Writing texture: end_iwatif
+Writing texture: end_kagetif
+Writing texture: end_kamitif
+Writing texture: end_kawa_atif
+Writing texture: end_kino_fbtif
+Writing texture: end_kino_fctif
+Writing texture: end_kino_fdtif
+Writing texture: end_kobock_btif
+Writing texture: end_kobock_reeftif
+Writing texture: end_kokobock_eyetif
+Writing texture: end_kubiwatif
+Writing texture: end_kumo_anitif
+Writing texture: end_light_aatif
+Writing texture: end_light_btif
+Writing texture: end_light_dtif
+Writing texture: end_light_etif
+Writing texture: end_light_ftif
+Writing texture: end_light_gtif
+Writing texture: end_light_htif
+Writing texture: end_light_itif
+Writing texture: end_light_jtif
+Writing texture: end_light_ltif
+Writing texture: end_light_mtif
+Writing texture: end_m_backtif
+Writing texture: end_mac_britshcuttif
+Writing texture: end_mac_britshtreetif
+Writing texture: end_mac_fieldtif
+Writing texture: end_mariohouse_btif
+Writing texture: end_me_btif
+Writing texture: end_midori03tif
+Writing texture: end_nuno_greentif
+Writing texture: end_nunotif
+Writing texture: end_pacntif
+Writing texture: end_rainbowtif
+Writing texture: end_reef_jantif
+Writing texture: end_ryusei_gou_btif
+Writing texture: end_ryusei_goutif
+Writing texture: end_s_roadtif
+Writing texture: end_snow_fieldtif
+Writing texture: end_starlinetif
+Writing texture: end_sutif
+Writing texture: end_treetif
+Writing texture: end_tumikitif
+Writing texture: end_umitif
+Writing texture: end_yosflo_1tif
+Writing texture: end_yosflo_2tif
+Writing texture: end_yoshitif
+Writing texture: end_yougantif
+Writing texture: end_yuka_block3tif
+Writing texture: end_yuka_block4tif
+Building texture archive: nok_tex.txa
+Writing texture: nok_amitif
+Writing texture: nok_ana_ctif
+Writing texture: nok_back_2tif
+Writing texture: nok_berosaidetif
+Writing texture: nok_block_ctif
+Writing texture: nok_blook2tif
+Writing texture: nok_blooktif
+Writing texture: nok_dec_planttif
+Writing texture: nok_flower_02tif
+Writing texture: nok_frametif
+Writing texture: nok_g_and_btif
+Writing texture: nok_green_etif
+Writing texture: nok_hana_btif
+Writing texture: nok_hana_ftif
+Writing texture: nok_hanastif
+Writing texture: nok_hapa34tif
+Writing texture: nok_hapatif
+Writing texture: nok_hashi33tif
+Writing texture: nok_hon2tif
+Writing texture: nok_hontif
+Writing texture: nok_huton_02tif
+Writing texture: nok_itatif
+Writing texture: nok_iwa_atif
+Writing texture: nok_jimentif
+Writing texture: nok_kabe10tif
+Writing texture: nok_kabe12_btif
+Writing texture: nok_kabe12_wtif
+Writing texture: nok_kabe12tif
+Writing texture: nok_kabe6tif
+Writing texture: nok_kabe8tif
+Writing texture: nok_kabegami_3tif
+Writing texture: nok_kabegami_ftif
+Writing texture: nok_kabekusatif
+Writing texture: nok_kabetif
+Writing texture: nok_kanban4tif
+Writing texture: nok_kanban6tif
+Writing texture: nok_kinopiotif
+Writing texture: nok_kirakiratif
+Writing texture: nok_kishikakutif
+Writing texture: nok_kusakusa1tif
+Writing texture: nok_kusatif
+Writing texture: nok_log_sidetif
+Writing texture: nok_mac_fieldtif
+Writing texture: nok_mac_house7tif
+Writing texture: nok_mac_house8tif
+Writing texture: nok_mac_sakutif
+Writing texture: nok_mado_9tif
+Writing texture: nok_midori03tif
+Writing texture: nok_miki4tif
+Writing texture: nok_n_yasihatif
+Writing texture: nok_n_yasikitif
+Writing texture: nok_nagaretif
+Writing texture: nok_nok_suimentif
+Writing texture: nok_radio2tif
+Writing texture: nok_reef_htif
+Writing texture: nok_reef_i_kukitif
+Writing texture: nok_ren_atif
+Writing texture: nok_renga_edgetif
+Writing texture: nok_renga10tif
+Writing texture: nok_renga12tif
+Writing texture: nok_sabaku_btif
+Writing texture: nok_sakusakutif
+Writing texture: nok_sakusatif
+Writing texture: nok_sakutif
+Writing texture: nok_simatif
+Writing texture: nok_t_dokankun3tif
+Writing texture: nok_tana_1tif
+Writing texture: nok_tana_3tif
+Writing texture: nok_tana_ctif
+Writing texture: nok_temae1tif
+Writing texture: nok_tesuritif
+Writing texture: nok_tizutif
+Writing texture: nok_turu_1tif
+Writing texture: nok_wall_mtif
+Writing texture: nok_water_sokotif
+Writing texture: nok_wood_floor_ctif
+Writing texture: nok_yuka3tif
+Writing texture: nok_yuka6tif
+Writing texture: nok_yuka7tif
+Writing texture: nok_yukatif
 Building texture archive: mac_tex.txa
 Writing texture: mac_ahotif
 Writing texture: mac_berosaidetif
@@ -974,310 +1528,144 @@ Writing texture: mac_umisokotif
 Writing texture: mac_umitif
 Writing texture: mac_wall_mtif
 Writing texture: mac_wood_pole_btif
-Building texture archive: isk_tex.txa
-Writing texture: isk_TG2tif
-Writing texture: isk_ana_ctif
-Writing texture: isk_block_ctif
-Writing texture: isk_blocktif
-Writing texture: isk_coin_walltif
-Writing texture: isk_en_2tif
-Writing texture: isk_grayframetif
-Writing texture: isk_hatenatif
-Writing texture: isk_hekiga12tif
-Writing texture: isk_hekiga3tif
-Writing texture: isk_hekiga7tif
-Writing texture: isk_hekiga8tif
-Writing texture: isk_hekiga9tif
-Writing texture: isk_hikaritif
-Writing texture: isk_hitugi3tif
-Writing texture: isk_isk_block02btif
-Writing texture: isk_isk_block03btif
-Writing texture: isk_isk_block04btif
-Writing texture: isk_isk_yuka1tif
-Writing texture: isk_kabe_htif
-Writing texture: isk_mark2tif
-Writing texture: isk_oreme_btif
-Writing texture: isk_sabaku_btif
-Writing texture: isk_sakutif
-Writing texture: isk_sikaku_2tif
-Writing texture: isk_suna_4tif
-Writing texture: isk_suna3tif
-Writing texture: isk_tizu5tif
-Writing texture: isk_tizu6tif
-Writing texture: isk_wang1tif
-Writing texture: isk_wang2tif
-Writing texture: isk_wang3tif
-Writing texture: isk_yuka_ctif
-Building texture archive: gv__tex.txa
-Writing texture: gv__atif
-Writing texture: gv__entif
-Writing texture: gv__etif
-Writing texture: gv__gtif
-Writing texture: gv__mtif
-Writing texture: gv__otif
-Writing texture: gv__rtif
-Writing texture: gv__vtif
-Building texture archive: sam_tex.txa
-Writing texture: sam_berosaidetif
-Writing texture: sam_binn2tif
-Writing texture: sam_bintif
-Writing texture: sam_dannro02tif
-Writing texture: sam_doa1tif
-Writing texture: sam_dokankuntif
-Writing texture: sam_flower_02tif
-Writing texture: sam_frametif
-Writing texture: sam_grayframetif
-Writing texture: sam_hasira1tif
-Writing texture: sam_himo01tif
-Writing texture: sam_hon01tif
-Writing texture: sam_hon02tif
-Writing texture: sam_hon03tif
-Writing texture: sam_hon04tif
-Writing texture: sam_hon2tif
-Writing texture: sam_hon3tif
-Writing texture: sam_hontif
-Writing texture: sam_ice3tif
-Writing texture: sam_kago2tif
-Writing texture: sam_kagotif
-Writing texture: sam_kakigouri1tif
-Writing texture: sam_kakigouri2tif
-Writing texture: sam_kami02tif
-Writing texture: sam_kami03tif
-Writing texture: sam_kazari2tif
-Writing texture: sam_keito1tif
-Writing texture: sam_ki3tif
-Writing texture: sam_kinoitatif
-Writing texture: sam_kinopiotif
-Writing texture: sam_nabe_atif
-Writing texture: sam_nabe_btif
-Writing texture: sam_nabe_ctif
-Writing texture: sam_nabe_dtif
-Writing texture: sam_odo_iwahashi3tif
-Writing texture: sam_odo_iwatif
-Writing texture: sam_pen_snow2tif
-Writing texture: sam_pen_snow3tif
-Writing texture: sam_pen_snowtif
-Writing texture: sam_ranpu01tif
-Writing texture: sam_s_anatif
-Writing texture: sam_s_dannro1tif
-Writing texture: sam_s_dannro2tif
-Writing texture: sam_s_danro3tif
-Writing texture: sam_s_danro4tif
-Writing texture: sam_s_doa1tif
-Writing texture: sam_s_doa2tif
-Writing texture: sam_s_doatif
-Writing texture: sam_s_futon2tif
-Writing texture: sam_s_futon3tif
-Writing texture: sam_s_kabe1tif
-Writing texture: sam_s_kabe2tif
-Writing texture: sam_s_kabe3tif
-Writing texture: sam_s_kabetif
-Writing texture: sam_s_kazari1tif
-Writing texture: sam_s_kemutif
-Writing texture: sam_s_kesyou2tif
-Writing texture: sam_s_mado1tif
-Writing texture: sam_s_mado2tif
-Writing texture: sam_s_mafuretif
-Writing texture: sam_s_metif
-Writing texture: sam_s_road1tif
-Writing texture: sam_s_saku3tif
-Writing texture: sam_s_sakutif
-Writing texture: sam_s_treetif
-Writing texture: sam_s_turara2tif
-Writing texture: sam_s_zyuutantif
-Writing texture: sam_sam_block01tif
-Writing texture: sam_star1tif
-Writing texture: sam_sui01tif
-Writing texture: sam_t_chear2tif
-Writing texture: sam_t_cheartif
-Writing texture: sam_t_dokankun3tif
-Writing texture: sam_t_katen1tif
-Writing texture: sam_taru1tif
-Writing texture: sam_woody_plate_jtif
-Writing texture: sam_yamatif
-Writing texture: sam_yane_yukitif
-Building texture archive: flo_tex.txa
-Writing texture: flo_baraha2tif
-Writing texture: flo_barahanatif
-Writing texture: flo_barahatif
-Writing texture: flo_barakakine7tif
-Writing texture: flo_baratulutif
-Writing texture: flo_berosaidetif
-Writing texture: flo_botantif
-Writing texture: flo_chibikumo2tif
-Writing texture: flo_chibikumotif
-Writing texture: flo_comp03tif
-Writing texture: flo_f_achi2tif
-Writing texture: flo_f_dokantif
-Writing texture: flo_f_hatenatif
-Writing texture: flo_f_hikarabi4tif
-Writing texture: flo_f_kusa02tif
-Writing texture: flo_f_kusatif
-Writing texture: flo_f_saku5tif
-Writing texture: flo_f_sitakusatif
-Writing texture: flo_f_yane02tif
-Writing texture: flo_flo_hanatif
-Writing texture: flo_flo_kusa1tif
-Writing texture: flo_flo_kusa2tif
-Writing texture: flo_flo_renga2tif
-Writing texture: flo_flo_roadtif
-Writing texture: flo_flo_top2tif
-Writing texture: flo_flower_dtif
-Writing texture: flo_flower_edge4tif
-Writing texture: flo_flower_field3tif
-Writing texture: flo_flower_top3tif
-Writing texture: flo_frametif
-Writing texture: flo_hanatabatif
-Writing texture: flo_happa2tif
-Writing texture: flo_happa3tif
-Writing texture: flo_happa4tif
-Writing texture: flo_hasiratif
-Writing texture: flo_hunsuitif
-Writing texture: flo_ibaratif
-Writing texture: flo_jack3tif
-Writing texture: flo_jack4tif
-Writing texture: flo_ki_atif
-Writing texture: flo_kinoha5tif
-Writing texture: flo_kinoha6tif
-Writing texture: flo_kinoha7tif
-Writing texture: flo_kinoita3tif
-Writing texture: flo_kinoitatif
-Writing texture: flo_kirikabutif
-Writing texture: flo_kuki6tif
-Writing texture: flo_kumo2tif
-Writing texture: flo_kumokumo2tif
-Writing texture: flo_kumokumotif
-Writing texture: flo_kumonokage2tif
-Writing texture: flo_kumonoue11tif
-Writing texture: flo_kumonoue12tif
-Writing texture: flo_kumonoue15tif
-Writing texture: flo_kumonoue18tif
-Writing texture: flo_kumonoue21tif
-Writing texture: flo_kumonoue22tif
-Writing texture: flo_kumonoue23tif
-Writing texture: flo_kumotif
-Writing texture: flo_kuristalu2tif
-Writing texture: flo_kuristalutif
-Writing texture: flo_marutakuntif
-Writing texture: flo_mizu_kabetif
-Writing texture: flo_moguraana2tif
-Writing texture: flo_mon2tif
-Writing texture: flo_mon3tif
-Writing texture: flo_naminami4tif
-Writing texture: flo_niji2tif
-Writing texture: flo_niji3tif
-Writing texture: flo_oldtree_metif
-Writing texture: flo_oldtree_reef3tif
-Writing texture: flo_panji02tif
-Writing texture: flo_panjitif
-Writing texture: flo_renga3tif
-Writing texture: flo_renga4tif
-Writing texture: flo_rengatif
-Writing texture: flo_ryuusuitif
-Writing texture: flo_shabon4tif
-Writing texture: flo_shabon6tif
-Writing texture: flo_shabonnhanatif
-Writing texture: flo_sirohana2tif
-Writing texture: flo_sirohanatif
-Writing texture: flo_tetugousitif
-Writing texture: flo_tobiratif
-Writing texture: flo_tutitif
-Writing texture: flo_watertif
-Writing texture: flo_yabu2tif
-Building texture archive: end_tex.txa
-Writing texture: end_bg_yamatif
-Writing texture: end_castle_atif
-Writing texture: end_castle_btif
-Writing texture: end_cycadtif
-Writing texture: end_ensekitif
-Writing texture: end_green_gradetif
-Writing texture: end_greentif
-Writing texture: end_heiho_neontif
-Writing texture: end_hoppetif
-Writing texture: end_iwatif
-Writing texture: end_kagetif
-Writing texture: end_kamitif
-Writing texture: end_kawa_atif
-Writing texture: end_kino_fbtif
-Writing texture: end_kino_fctif
-Writing texture: end_kino_fdtif
-Writing texture: end_kobock_btif
-Writing texture: end_kobock_reeftif
-Writing texture: end_kokobock_eyetif
-Writing texture: end_kubiwatif
-Writing texture: end_kumo_anitif
-Writing texture: end_light_aatif
-Writing texture: end_light_btif
-Writing texture: end_light_dtif
-Writing texture: end_light_etif
-Writing texture: end_light_ftif
-Writing texture: end_light_gtif
-Writing texture: end_light_htif
-Writing texture: end_light_itif
-Writing texture: end_light_jtif
-Writing texture: end_light_ltif
-Writing texture: end_light_mtif
-Writing texture: end_m_backtif
-Writing texture: end_mac_britshcuttif
-Writing texture: end_mac_britshtreetif
-Writing texture: end_mac_fieldtif
-Writing texture: end_mariohouse_btif
-Writing texture: end_me_btif
-Writing texture: end_midori03tif
-Writing texture: end_nuno_greentif
-Writing texture: end_nunotif
-Writing texture: end_pacntif
-Writing texture: end_rainbowtif
-Writing texture: end_reef_jantif
-Writing texture: end_ryusei_gou_btif
-Writing texture: end_ryusei_goutif
-Writing texture: end_s_roadtif
-Writing texture: end_snow_fieldtif
-Writing texture: end_starlinetif
-Writing texture: end_sutif
-Writing texture: end_treetif
-Writing texture: end_tumikitif
-Writing texture: end_umitif
-Writing texture: end_yosflo_1tif
-Writing texture: end_yosflo_2tif
-Writing texture: end_yoshitif
-Writing texture: end_yougantif
-Writing texture: end_yuka_block3tif
-Writing texture: end_yuka_block4tif
-Building texture archive: kzn_tex.txa
-Writing texture: kzn_boaltif
-Writing texture: kzn_bubble_3tif
-Writing texture: kzn_bubbletif
-Writing texture: kzn_fpack_headtif
-Writing texture: kzn_fpack_kuki0tif
-Writing texture: kzn_fpack_kuki1tif
-Writing texture: kzn_fpack_shokushutif
-Writing texture: kzn_goron_togetif
-Writing texture: kzn_gorontif
-Writing texture: kzn_grayframetif
-Writing texture: kzn_hibitif
-Writing texture: kzn_iwashitatif
-Writing texture: kzn_iwatemae_itif
-Writing texture: kzn_iwatemaetif
-Writing texture: kzn_iwayukatif
-Writing texture: kzn_kassya2tif
-Writing texture: kzn_kassyatif
-Writing texture: kzn_kemuritif
-Writing texture: kzn_kzn_renga1tif
-Writing texture: kzn_ropetif
-Writing texture: kzn_t_ha_iwahashiratif
-Writing texture: kzn_t_iwahashiratif
-Writing texture: kzn_t_iwahashitif
-Writing texture: kzn_t_iwakabe2_iitif
-Writing texture: kzn_t_iwakabe2tif
-Writing texture: kzn_t_iwapointtif
-Writing texture: kzn_t_iwayougantif
-Writing texture: kzn_t1_iwakabetif
-Writing texture: kzn_tatetif
-Writing texture: kzn_to1_iwakabetif
-Writing texture: kzn_yougan05tif
-Writing texture: kzn_yougantif
-Writing texture: kzn_yuka_btif
+Building texture archive: sbk_tex.txa
+Writing texture: sbk_berosaidetif
+Writing texture: sbk_blocktif
+Writing texture: sbk_coin_walltif
+Writing texture: sbk_flower1tif
+Writing texture: sbk_flower2tif
+Writing texture: sbk_frametif
+Writing texture: sbk_gyuutanntif
+Writing texture: sbk_ha1tif
+Writing texture: sbk_iseki_floortif
+Writing texture: sbk_iwa_togo_atif
+Writing texture: sbk_iwa_walltif
+Writing texture: sbk_iwa_woodtif
+Writing texture: sbk_iwa01tif
+Writing texture: sbk_iwasakutif
+Writing texture: sbk_kabe_htif
+Writing texture: sbk_kabe1tif
+Writing texture: sbk_kemuritif
+Writing texture: sbk_kusa3tif
+Writing texture: sbk_miki1tif
+Writing texture: sbk_mizu1tif
+Writing texture: sbk_moyou2tif
+Writing texture: sbk_noisetif
+Writing texture: sbk_papyrustif
+Writing texture: sbk_ramptif
+Writing texture: sbk_rock_edge_atif
+Writing texture: sbk_rock_edgetif
+Writing texture: sbk_s_road_3tif
+Writing texture: sbk_sabakuiwatif
+Writing texture: sbk_sabakureeftif
+Writing texture: sbk_sabo02tif
+Writing texture: sbk_sabo2tif
+Writing texture: sbk_sabotif
+Writing texture: sbk_sndtif
+Writing texture: sbk_suna2tif
+Writing texture: sbk_suna3tif
+Writing texture: sbk_tenttif
+Writing texture: sbk_togetif
+Writing texture: sbk_upperlighttif
+Writing texture: sbk_wang1tif
+Writing texture: sbk_wang2tif
+Writing texture: sbk_wang3tif
+Writing texture: sbk_woody_plate_dtif
+Writing texture: sbk_yuka_ctif
+Writing texture: sbk_zimen2tif
+Building texture archive: kpa_tex.txa
+Writing texture: kpa_akari02tif
+Writing texture: kpa_ana_ctif
+Writing texture: kpa_backtif
+Writing texture: kpa_batu01tif
+Writing texture: kpa_berosaidetif
+Writing texture: kpa_chandeliertif
+Writing texture: kpa_coin3tif
+Writing texture: kpa_doa2tif
+Writing texture: kpa_edge_atif
+Writing texture: kpa_floor_btif
+Writing texture: kpa_floor_ctif
+Writing texture: kpa_floortif
+Writing texture: kpa_grayframetif
+Writing texture: kpa_hi_01tif
+Writing texture: kpa_hitif
+Writing texture: kpa_iwa_bigtif
+Writing texture: kpa_iwagattaitif
+Writing texture: kpa_jimtif
+Writing texture: kpa_jutantif
+Writing texture: kpa_k_ana02tif
+Writing texture: kpa_k_sakutif
+Writing texture: kpa_k_taki1tif
+Writing texture: kpa_kabe_blocktif
+Writing texture: kpa_kabe12btif
+Writing texture: kpa_kabe12tif
+Writing texture: kpa_kabe17tif
+Writing texture: kpa_kabe18tif
+Writing texture: kpa_kabe19tif
+Writing texture: kpa_kabe4btif
+Writing texture: kpa_kabe4tif
+Writing texture: kpa_kabe8btif
+Writing texture: kpa_kabe8tif
+Writing texture: kpa_kinoitatif
+Writing texture: kpa_kpa_greentif
+Writing texture: kpa_kpa_hako10tif
+Writing texture: kpa_kpa_hako6tif
+Writing texture: kpa_kpa_madotif
+Writing texture: kpa_kpa_yaritif
+Writing texture: kpa_kpa_yohane2tif
+Writing texture: kpa_kpa_yohane3tif
+Writing texture: kpa_kpa5_eyetif
+Writing texture: kpa_kpasmoketif
+Writing texture: kpa_kumo2tif
+Writing texture: kpa_kumotif
+Writing texture: kpa_kup_floor1tif
+Writing texture: kpa_kup_floor2tif
+Writing texture: kpa_kup_kumo1tif
+Writing texture: kpa_kup_wall1tif
+Writing texture: kpa_kup_wall2tif
+Writing texture: kpa_kup_wall3tif
+Writing texture: kpa_kup_wall4tif
+Writing texture: kpa_kup_window1tif
+Writing texture: kpa_kuppatif
+Writing texture: kpa_kusari_uetif
+Writing texture: kpa_kusaritif
+Writing texture: kpa_maru01tif
+Writing texture: kpa_me_atif
+Writing texture: kpa_mtif
+Writing texture: kpa_patarntif
+Writing texture: kpa_plane_blocktif
+Writing texture: kpa_renga_btif
+Writing texture: kpa_ryusei_gou_btif
+Writing texture: kpa_ryusei_goutif
+Writing texture: kpa_shirokabetif
+Writing texture: kpa_shiroyanetif
+Writing texture: kpa_star_doortif
+Writing texture: kpa_sui1tif
+Writing texture: kpa_syounyuudou2tif
+Writing texture: kpa_syounyuudou4tif
+Writing texture: kpa_t_marutif
+Writing texture: kpa_tesuri2tif
+Writing texture: kpa_to_wall_aatif
+Writing texture: kpa_togetif
+Writing texture: kpa_trd_kusaritif
+Writing texture: kpa_tsubotif
+Writing texture: kpa_wall_atif
+Writing texture: kpa_wall_btif
+Writing texture: kpa_wall_ctif
+Writing texture: kpa_wall_dtif
+Writing texture: kpa_wall_ftif
+Writing texture: kpa_water3tif
+Writing texture: kpa_windowtif
+Writing texture: kpa_yellow_blocktif
+Writing texture: kpa_yogan04tif
+Writing texture: kpa_yougan05tif
+Writing texture: kpa_yuka2tif
+Writing texture: kpa_yuka3tif
+Writing texture: kpa_yuka5tif
+Writing texture: kpa_yukatif
+Writing texture: kpa_zyou1tif
+Writing texture: kpa_zyou2tif
+Writing texture: kpa_zyou3tif
 Building texture archive: iwa_tex.txa
 Writing texture: iwa_back_2tif
 Writing texture: iwa_berosaidetif
@@ -1332,91 +1720,6 @@ Writing texture: iwa_syarintif
 Writing texture: iwa_t_taki1tif
 Writing texture: iwa_temae1tif
 Writing texture: iwa_wood_pole_b_btif
-Building texture archive: jan_tex.txa
-Writing texture: jan_bananahatif
-Writing texture: jan_berosaidetif
-Writing texture: jan_block_ctif
-Writing texture: jan_boaltif
-Writing texture: jan_cycad_reeftif
-Writing texture: jan_cycadtif
-Writing texture: jan_daikinohatif
-Writing texture: jan_dekaikitif
-Writing texture: jan_flower_02tif
-Writing texture: jan_frametif
-Writing texture: jan_green_ctif
-Writing texture: jan_hana_ftif
-Writing texture: jan_hikiato2tif
-Writing texture: jan_hoppetif
-Writing texture: jan_hunsuitif
-Writing texture: jan_iwashitatif
-Writing texture: jan_iwatemaetif
-Writing texture: jan_iwayukatif
-Writing texture: jan_j_isi2tif
-Writing texture: jan_j_isitif
-Writing texture: jan_j_iwatif
-Writing texture: jan_j_kazariha2tif
-Writing texture: jan_j_sakutif
-Writing texture: jan_j_tuta02tif
-Writing texture: jan_j_tuta06tif
-Writing texture: jan_j_tutatif
-Writing texture: jan_j_tutitif
-Writing texture: jan_jan_jimentif
-Writing texture: jan_jan_kabemizutif
-Writing texture: jan_jan_kabetif
-Writing texture: jan_jan_kukitif
-Writing texture: jan_jan_marutatif
-Writing texture: jan_jan_mizukabetif
-Writing texture: jan_jan_reef02tif
-Writing texture: jan_jan_reeftif
-Writing texture: jan_jan_sigemi_02tif
-Writing texture: jan_jan_sigemitif
-Writing texture: jan_jan_treetif
-Writing texture: jan_janguluhatif
-Writing texture: jan_jangulukusa_02tif
-Writing texture: jan_jangulukusa4tif
-Writing texture: jan_jangulukusatif
-Writing texture: jan_jankitif
-Writing texture: jan_jb_hasira3tif
-Writing texture: jan_jb_isitif
-Writing texture: jan_jb_moyou2tif
-Writing texture: jan_jb_moyou3tif
-Writing texture: jan_kagotif
-Writing texture: jan_kanbantif
-Writing texture: jan_kassya2tif
-Writing texture: jan_kassyatif
-Writing texture: jan_kinoha5tif
-Writing texture: jan_kinoita3tif
-Writing texture: jan_kinoita4tif
-Writing texture: jan_kinoitatif
-Writing texture: jan_kinokusa2tif
-Writing texture: jan_kinokusa6tif
-Writing texture: jan_kinokusatif
-Writing texture: jan_kinometif
-Writing texture: jan_kinopiotif
-Writing texture: jan_kokekusatif
-Writing texture: jan_kujira_haratif
-Writing texture: jan_kusa5tif
-Writing texture: jan_kusatif
-Writing texture: jan_mac_house6tif
-Writing texture: jan_nami2tif
-Writing texture: jan_naminami4tif
-Writing texture: jan_namitif
-Writing texture: jan_qchannosutif
-Writing texture: jan_rock_btif
-Writing texture: jan_ropetif
-Writing texture: jan_sima4tif
-Writing texture: jan_sunahama4tif
-Writing texture: jan_t_dokankun3tif
-Writing texture: jan_t_iwahashitif
-Writing texture: jan_t_iwayougantif
-Writing texture: jan_t_sizuku1tif
-Writing texture: jan_to1_iwakabetif
-Writing texture: jan_tree_jantif
-Writing texture: jan_tutitutitif
-Writing texture: jan_yasiha4tif
-Writing texture: jan_yasiki2tif
-Writing texture: jan_yasimi2tif
-Writing texture: jan_yougantif
 Building texture archive: osr_tex.txa
 Writing texture: osr_berosaidetif
 Writing texture: osr_bloktif
@@ -1487,211 +1790,206 @@ Writing texture: osr_wall_ctif
 Writing texture: osr_wall_etif
 Writing texture: osr_wall_mtif
 Writing texture: osr_yellow_blocktif
-Building texture archive: trd_tex.txa
-Writing texture: trd_ana_ctif
-Writing texture: trd_berosaidetif
-Writing texture: trd_block_dtif
-Writing texture: trd_block_e2ttif
-Writing texture: trd_block_etif
-Writing texture: trd_doatif
-Writing texture: trd_frametif
-Writing texture: trd_futa1tif
-Writing texture: trd_grayframetif
-Writing texture: trd_green_etif
-Writing texture: trd_hikaritif
-Writing texture: trd_kabe10tif
-Writing texture: trd_kabe3tif
-Writing texture: trd_kabe5tif
-Writing texture: trd_kabe6tif
-Writing texture: trd_kabe8tif
-Writing texture: trd_kabekusatif
-Writing texture: trd_kabetif
-Writing texture: trd_kamitif
-Writing texture: trd_kawa_atif
-Writing texture: trd_kitif
-Writing texture: trd_komatif
-Writing texture: trd_kubiwatif
-Writing texture: trd_kusaritif
-Writing texture: trd_mado6tif
-Writing texture: trd_mado7tif
-Writing texture: trd_me_btif
-Writing texture: trd_nuno_ctif
-Writing texture: trd_nuno_etif
-Writing texture: trd_peachtif
-Writing texture: trd_saku2tif
-Writing texture: trd_saku3tif
-Writing texture: trd_saku4tif
-Writing texture: trd_saku5tif
-Writing texture: trd_sakutif
-Writing texture: trd_sui1tif
-Writing texture: trd_t_sui2tif
-Writing texture: trd_trd_block2tif
-Writing texture: trd_trd_kusaritif
-Writing texture: trd_trd_taki1tif
-Writing texture: trd_trd_taki2tif
-Writing texture: trd_water_sokotif
-Writing texture: trd_water3tif
-Writing texture: trd_yuka3tif
-Writing texture: trd_yuka4tif
-Building texture archive: dgb_tex.txa
-Writing texture: dgb_berosaidetif
-Writing texture: dgb_ciock3tif
-Writing texture: dgb_d_ana04tif
-Writing texture: dgb_d_anatif
-Writing texture: dgb_d_chear2tif
-Writing texture: dgb_doatif
-Writing texture: dgb_frametif
-Writing texture: dgb_hasira1tif
-Writing texture: dgb_hibi1tif
-Writing texture: dgb_hibi3tif
-Writing texture: dgb_hikaritif
-Writing texture: dgb_hokori1tif
-Writing texture: dgb_isuasi1tif
-Writing texture: dgb_iwa_4tif
-Writing texture: dgb_jimen_edgetif
-Writing texture: dgb_jimenbtif
-Writing texture: dgb_jimenctif
-Writing texture: dgb_kabe10tif
-Writing texture: dgb_kabe1tif
-Writing texture: dgb_kabe2tif
-Writing texture: dgb_kabe3tif
-Writing texture: dgb_kabe6tif
-Writing texture: dgb_katen1tif
-Writing texture: dgb_katen3tif
-Writing texture: dgb_kazari3tif
-Writing texture: dgb_ki5tif
-Writing texture: dgb_mado1tif
-Writing texture: dgb_mado2tif
-Writing texture: dgb_moyou1tif
-Writing texture: dgb_moyou2tif
-Writing texture: dgb_moyou3tif
-Writing texture: dgb_syokudaitif
-Writing texture: dgb_tenjo2tif
-Writing texture: dgb_tesuri1tif
-Writing texture: dgb_tesuri2tif
-Writing texture: dgb_tesuri3tif
-Writing texture: dgb_togetif
-Writing texture: dgb_yuka1tif
-Writing texture: dgb_zassoutif
-Writing texture: dgb_zyu1tif
-Writing texture: dgb_zyu2tif
-Building texture archive: obk_tex.txa
-Writing texture: obk_bedtif
-Writing texture: obk_danrotif
-Writing texture: obk_denki_3btif
-Writing texture: obk_denki_rtif
-Writing texture: obk_denki64tif
-Writing texture: obk_door_01_btif
-Writing texture: obk_door_1tif
-Writing texture: obk_doortif
-Writing texture: obk_hashira_atif
-Writing texture: obk_hashira_u_1tif
-Writing texture: obk_hashiratif
-Writing texture: obk_hei_1tif
-Writing texture: obk_heitif
-Writing texture: obk_hi_1_atif
-Writing texture: obk_hibitif
-Writing texture: obk_hokori1tif
-Writing texture: obk_hon2tif
-Writing texture: obk_howahowa_mtif
-Writing texture: obk_howahowatif
-Writing texture: obk_kabe_heyatif
-Writing texture: obk_kabebe_12tif
-Writing texture: obk_kabebe_mtif
-Writing texture: obk_kabebetif
-Writing texture: obk_kaidan_01tif
-Writing texture: obk_kaidan_3tif
-Writing texture: obk_kaidan_5tif
-Writing texture: obk_kaidan_6tif
-Writing texture: obk_kaidantif
-Writing texture: obk_kusari_stif
-Writing texture: obk_kusaritif
-Writing texture: obk_mado_3tif
-Writing texture: obk_mattif
-Writing texture: obk_nuno_1tif
-Writing texture: obk_nuno_2tif
-Writing texture: obk_nuno_3tif
-Writing texture: obk_reco2tif
-Writing texture: obk_sofatif
-Writing texture: obk_sotokabetif
-Writing texture: obk_tabul_1tif
-Writing texture: obk_tabultif
-Writing texture: obk_takitif
-Writing texture: obk_tansutif
-Writing texture: obk_tere_e_a_2tif
-Writing texture: obk_tere_tere_ttif
-Writing texture: obk_tere_teretif
-Writing texture: obk_tererere_1tif
-Writing texture: obk_tererere_2tif
-Writing texture: obk_tkomonotif
-Writing texture: obk_to_1tif
-Writing texture: obk_tokeitif
-Writing texture: obk_totif
-Writing texture: obk_yuka_mctif
-Writing texture: obk_yuka_t1tif
-Writing texture: obk_yuka_tairu3tif
-Writing texture: obk_yuka_tairutif
-Building texture archive: sbk_tex.txa
-Writing texture: sbk_berosaidetif
-Writing texture: sbk_blocktif
-Writing texture: sbk_coin_walltif
-Writing texture: sbk_flower1tif
-Writing texture: sbk_flower2tif
-Writing texture: sbk_frametif
-Writing texture: sbk_gyuutanntif
-Writing texture: sbk_ha1tif
-Writing texture: sbk_iseki_floortif
-Writing texture: sbk_iwa_togo_atif
-Writing texture: sbk_iwa_walltif
-Writing texture: sbk_iwa_woodtif
-Writing texture: sbk_iwa01tif
-Writing texture: sbk_iwasakutif
-Writing texture: sbk_kabe_htif
-Writing texture: sbk_kabe1tif
-Writing texture: sbk_kemuritif
-Writing texture: sbk_kusa3tif
-Writing texture: sbk_miki1tif
-Writing texture: sbk_mizu1tif
-Writing texture: sbk_moyou2tif
-Writing texture: sbk_noisetif
-Writing texture: sbk_papyrustif
-Writing texture: sbk_ramptif
-Writing texture: sbk_rock_edge_atif
-Writing texture: sbk_rock_edgetif
-Writing texture: sbk_s_road_3tif
-Writing texture: sbk_sabakuiwatif
-Writing texture: sbk_sabakureeftif
-Writing texture: sbk_sabo02tif
-Writing texture: sbk_sabo2tif
-Writing texture: sbk_sabotif
-Writing texture: sbk_sndtif
-Writing texture: sbk_suna2tif
-Writing texture: sbk_suna3tif
-Writing texture: sbk_tenttif
-Writing texture: sbk_togetif
-Writing texture: sbk_upperlighttif
-Writing texture: sbk_wang1tif
-Writing texture: sbk_wang2tif
-Writing texture: sbk_wang3tif
-Writing texture: sbk_woody_plate_dtif
-Writing texture: sbk_yuka_ctif
-Writing texture: sbk_zimen2tif
-Building texture archive: mgm_tex.txa
-Writing texture: mgm_1cointif
-Writing texture: mgm_3coinstif
-Writing texture: mgm_3timestif
-Writing texture: mgm_boardtif
-Writing texture: mgm_c1tif
-Writing texture: mgm_floortif
-Writing texture: mgm_hishitif
-Writing texture: mgm_kino_box_btif
-Writing texture: mgm_kino_box_gtif
-Writing texture: mgm_koopa_cardtif
-Writing texture: mgm_peach_cointif
-Writing texture: mgm_platetif
-Writing texture: mgm_spottif
-Writing texture: mgm_star_floortif
-Writing texture: mgm_t_dokankun3tif
+Building texture archive: kkj_tex.txa
+Writing texture: kkj_akaritif
+Writing texture: kkj_berosaidetif
+Writing texture: kkj_bouquettif
+Writing texture: kkj_brcktif
+Writing texture: kkj_checktif
+Writing texture: kkj_d_kitif
+Writing texture: kkj_d_lighttif
+Writing texture: kkj_dec_planttif
+Writing texture: kkj_donchoutif
+Writing texture: kkj_doresu_02tif
+Writing texture: kkj_etif
+Writing texture: kkj_floor_btif
+Writing texture: kkj_goldsakutif
+Writing texture: kkj_grayframetif
+Writing texture: kkj_hana_ftif
+Writing texture: kkj_hanatif
+Writing texture: kkj_hikaritif
+Writing texture: kkj_hikidasitif
+Writing texture: kkj_hon2tif
+Writing texture: kkj_hon3tif
+Writing texture: kkj_hon4tif
+Writing texture: kkj_hontif
+Writing texture: kkj_huwahuwa3tif
+Writing texture: kkj_i_togetif
+Writing texture: kkj_iwatif
+Writing texture: kkj_jyuutan2tif
+Writing texture: kkj_k_batutif
+Writing texture: kkj_k_denki11tif
+Writing texture: kkj_k_denki12tif
+Writing texture: kkj_k_denki13tif
+Writing texture: kkj_k_denki14tif
+Writing texture: kkj_k_denki15tif
+Writing texture: kkj_k_donchoutif
+Writing texture: kkj_k_eggtif
+Writing texture: kkj_k_hatenatif
+Writing texture: kkj_k_hutontif
+Writing texture: kkj_k_itigotif
+Writing texture: kkj_k_kabe2tif
+Writing texture: kkj_k_kabesitatif
+Writing texture: kkj_k_konatif
+Writing texture: kkj_k_kumo_02tif
+Writing texture: kkj_k_kumotif
+Writing texture: kkj_k_marutif
+Writing texture: kkj_k_mokumetif
+Writing texture: kkj_k_nabe2tif
+Writing texture: kkj_k_nagasitif
+Writing texture: kkj_k_obuntif
+Writing texture: kkj_k_otamatif
+Writing texture: kkj_k_pole02tif
+Writing texture: kkj_k_senzaitif
+Writing texture: kkj_k_star_doortif
+Writing texture: kkj_k_teppann2tif
+Writing texture: kkj_k_tutitif
+Writing texture: kkj_k_walltif
+Writing texture: kkj_k_yuka2tif
+Writing texture: kkj_k_yuka4tif
+Writing texture: kkj_kabe_blocktif
+Writing texture: kkj_kabe_edgetif
+Writing texture: kkj_kabekazaritif
+Writing texture: kkj_kabin3tif
+Writing texture: kkj_kabintif
+Writing texture: kkj_kagetif
+Writing texture: kkj_kagotif
+Writing texture: kkj_kazaritif
+Writing texture: kkj_kinoita3tif
+Writing texture: kkj_kinotif
+Writing texture: kkj_kkj_bouquettif
+Writing texture: kkj_kkj_chandeliertif
+Writing texture: kkj_kkj_kabetif
+Writing texture: kkj_kkj_planttif
+Writing texture: kkj_kkj_poletif
+Writing texture: kkj_kkj_star_doortif
+Writing texture: kkj_kkj_wall3tif
+Writing texture: kkj_kkj_walltif
+Writing texture: kkj_kusshontif
+Writing texture: kkj_long_windowtif
+Writing texture: kkj_mac_fieldtif
+Writing texture: kkj_mac_house7tif
+Writing texture: kkj_mac_house8tif
+Writing texture: kkj_mado_akaritif
+Writing texture: kkj_madotif
+Writing texture: kkj_metif
+Writing texture: kkj_nunosiwatif
+Writing texture: kkj_puropera2tif
+Writing texture: kkj_red_carpettif
+Writing texture: kkj_relieftif
+Writing texture: kkj_ropetif
+Writing texture: kkj_rousoku_ftif
+Writing texture: kkj_rousoku4tif
+Writing texture: kkj_sakutif
+Writing texture: kkj_saratif
+Writing texture: kkj_shirokabetif
+Writing texture: kkj_shiroyanetif
+Writing texture: kkj_star_door_bluetif
+Writing texture: kkj_sunlighttif
+Writing texture: kkj_tesuritif
+Writing texture: kkj_tokei_dtif
+Writing texture: kkj_tukue2tif
+Writing texture: kkj_tukuetif
+Writing texture: kkj_wall_etif
+Writing texture: kkj_wall_mtif
+Writing texture: kkj_yellow_blocktif
+Writing texture: kkj_yuka6tif
+Building texture archive: hos_tex.txa
+Writing texture: hos_akaritif
+Writing texture: hos_berosaidetif
+Writing texture: hos_demo_backtif
+Writing texture: hos_demo_star_btif
+Writing texture: hos_flower_02tif
+Writing texture: hos_frametif
+Writing texture: hos_fx_cartaintif
+Writing texture: hos_grayframetif
+Writing texture: hos_h_bed2tif
+Writing texture: hos_h_ha2tif
+Writing texture: hos_h_ha6tif
+Writing texture: hos_h_hana_02tif
+Writing texture: hos_h_hatif
+Writing texture: hos_h_hosikabetif
+Writing texture: hos_h_hutontif
+Writing texture: hos_h_jimentif
+Writing texture: hos_h_kabe3tif
+Writing texture: hos_h_kabe5tif
+Writing texture: hos_h_kabe6tif
+Writing texture: hos_h_karpettif
+Writing texture: hos_h_kitif
+Writing texture: hos_h_kusa02tif
+Writing texture: hos_h_mado2tif
+Writing texture: hos_h_madotif
+Writing texture: hos_h_renga3tif
+Writing texture: hos_h_renga4tif
+Writing texture: hos_h_sakutif
+Writing texture: hos_h_sinden2tif
+Writing texture: hos_h_sinden7tif
+Writing texture: hos_h_star_02tif
+Writing texture: hos_h_tobira2tif
+Writing texture: hos_h_tobira3tif
+Writing texture: hos_h_tobira4tif
+Writing texture: hos_h_yane2tif
+Writing texture: hos_hasiratif
+Writing texture: hos_hikaritif
+Writing texture: hos_hos_jimentif
+Writing texture: hos_hos_kumotif
+Writing texture: hos_hos9dentif
+Writing texture: hos_hutikusatif
+Writing texture: hos_iwa_big_demotif
+Writing texture: hos_jimen2tif
+Writing texture: hos_jimtif
+Writing texture: hos_kabe_blocktif
+Writing texture: hos_kabe2tif
+Writing texture: hos_kabe3tif
+Writing texture: hos_kazaritif
+Writing texture: hos_kinopiotif
+Writing texture: hos_kirakiratif
+Writing texture: hos_kousokutif
+Writing texture: hos_kumo2tif
+Writing texture: hos_kumo3tif
+Writing texture: hos_kumo4tif
+Writing texture: hos_kumo5tif
+Writing texture: hos_kumo6tif
+Writing texture: hos_kumo7tif
+Writing texture: hos_kusa5tif
+Writing texture: hos_kusshontif
+Writing texture: hos_linestartif
+Writing texture: hos_mac_edgetif
+Writing texture: hos_mokume2tif
+Writing texture: hos_mokume3tif
+Writing texture: hos_mon2tif
+Writing texture: hos_moontif
+Writing texture: hos_mtif
+Writing texture: hos_naminami3tif
+Writing texture: hos_ochi_mariotif
+Writing texture: hos_piramitif
+Writing texture: hos_rainbow_btif
+Writing texture: hos_rainbowtif
+Writing texture: hos_renga2tif
+Writing texture: hos_rengamiti03tif
+Writing texture: hos_rengatif
+Writing texture: hos_ryusei_gou_btif
+Writing texture: hos_ryusei_goutif
+Writing texture: hos_ryuseitif
+Writing texture: hos_shirokabetif
+Writing texture: hos_shiroyanetif
+Writing texture: hos_sirokurotif
+Writing texture: hos_star_door_demotif
+Writing texture: hos_stargate_ctif
+Writing texture: hos_stargate_etif
+Writing texture: hos_stargatetif
+Writing texture: hos_sterlighttif
+Writing texture: hos_t_hei2tif
+Writing texture: hos_t_mac_fieldtif
+Writing texture: hos_t_mac_house7tif
+Writing texture: hos_t_mac_sakutif
+Writing texture: hos_tukitif
+Writing texture: hos_water_sokotif
+Writing texture: hos_water3tif
+Writing texture: hos_watertif
+Writing texture: hos_yellow_blocktif
+Writing texture: hos_yuka6tif
+Writing texture: hos_yukatif
 Building texture archive: kmr_tex.txa
 Writing texture: kmr_00_0tif
 Writing texture: kmr_00_reef_ltif
@@ -1800,175 +2098,22 @@ Writing texture: kmr_wood_floor_ctif
 Writing texture: kmr_woody_plate_jtif
 Writing texture: kmr_yougantif
 Writing texture: kmr_yuka6tif
-Building texture archive: tik_tex.txa
-Writing texture: tik_bin_rbr01tif
-Writing texture: tik_doa1tif
-Writing texture: tik_frozentif
-Writing texture: tik_grayframetif
-Writing texture: tik_icetif
-Writing texture: tik_kan1tif
-Writing texture: tik_kinoitatif
-Writing texture: tik_mac_doortif
-Writing texture: tik_oregl3tif
-Writing texture: tik_t_chear2tif
-Writing texture: tik_t_cheartif
-Writing texture: tik_t_doatif
-Writing texture: tik_t_dokankun2tif
-Writing texture: tik_t_dokankun3tif
-Writing texture: tik_t_ice3tif
-Writing texture: tik_t_katen1tif
-Writing texture: tik_t_kazari1tif
-Writing texture: tik_t_kiri1tif
-Writing texture: tik_t_sakutif
-Writing texture: tik_t_sizuku1tif
-Writing texture: tik_t_taki1tif
-Writing texture: tik_t_taki5tif
-Writing texture: tik_t_taki6tif
-Writing texture: tik_t_taki7tif
-Writing texture: tik_t_turara1tif
-Writing texture: tik_t_yuka1tif
-Writing texture: tik_tn_kabe3tif
-Writing texture: tik_togetif
-Building texture archive: dro_tex.txa
-Writing texture: dro_berosaidetif
-Writing texture: dro_binn2tif
-Writing texture: dro_blocktif
-Writing texture: dro_d_t_doatif
-Writing texture: dro_d_tubo01tif
-Writing texture: dro_doa1tif
-Writing texture: dro_flower_02tif
-Writing texture: dro_frametif
-Writing texture: dro_gyuutann2tif
-Writing texture: dro_hasira1tif
-Writing texture: dro_hata2tif
-Writing texture: dro_hon2tif
-Writing texture: dro_hon3tif
-Writing texture: dro_honetif
-Writing texture: dro_kabe_htif
-Writing texture: dro_kabe1tif
-Writing texture: dro_kannbanntif
-Writing texture: dro_kemutif
-Writing texture: dro_kinopiotif
-Writing texture: dro_kudamonotif
-Writing texture: dro_mado6tif
-Writing texture: dro_moyou2tif
-Writing texture: dro_nuno2tif
-Writing texture: dro_nunoyanetif
-Writing texture: dro_papyrustif
-Writing texture: dro_posuta2tif
-Writing texture: dro_posutatif
-Writing texture: dro_ranputif
-Writing texture: dro_road3tif
-Writing texture: dro_sabakureeftif
-Writing texture: dro_sakutif
-Writing texture: dro_spider_nettif
-Writing texture: dro_suna3tif
-Writing texture: dro_taru1tif
-Writing texture: dro_wall_ftif
-Building texture archive: kkj_tex.txa
-Writing texture: kkj_akaritif
-Writing texture: kkj_berosaidetif
-Writing texture: kkj_bouquettif
-Writing texture: kkj_brcktif
-Writing texture: kkj_checktif
-Writing texture: kkj_d_kitif
-Writing texture: kkj_d_lighttif
-Writing texture: kkj_dec_planttif
-Writing texture: kkj_donchoutif
-Writing texture: kkj_doresu_02tif
-Writing texture: kkj_etif
-Writing texture: kkj_floor_btif
-Writing texture: kkj_goldsakutif
-Writing texture: kkj_grayframetif
-Writing texture: kkj_hana_ftif
-Writing texture: kkj_hanatif
-Writing texture: kkj_hikaritif
-Writing texture: kkj_hikidasitif
-Writing texture: kkj_hon2tif
-Writing texture: kkj_hon3tif
-Writing texture: kkj_hon4tif
-Writing texture: kkj_hontif
-Writing texture: kkj_huwahuwa3tif
-Writing texture: kkj_i_togetif
-Writing texture: kkj_iwatif
-Writing texture: kkj_jyuutan2tif
-Writing texture: kkj_k_batutif
-Writing texture: kkj_k_denki11tif
-Writing texture: kkj_k_denki12tif
-Writing texture: kkj_k_denki13tif
-Writing texture: kkj_k_denki14tif
-Writing texture: kkj_k_denki15tif
-Writing texture: kkj_k_donchoutif
-Writing texture: kkj_k_eggtif
-Writing texture: kkj_k_hatenatif
-Writing texture: kkj_k_hutontif
-Writing texture: kkj_k_itigotif
-Writing texture: kkj_k_kabe2tif
-Writing texture: kkj_k_kabesitatif
-Writing texture: kkj_k_konatif
-Writing texture: kkj_k_kumo_02tif
-Writing texture: kkj_k_kumotif
-Writing texture: kkj_k_marutif
-Writing texture: kkj_k_mokumetif
-Writing texture: kkj_k_nabe2tif
-Writing texture: kkj_k_nagasitif
-Writing texture: kkj_k_obuntif
-Writing texture: kkj_k_otamatif
-Writing texture: kkj_k_pole02tif
-Writing texture: kkj_k_senzaitif
-Writing texture: kkj_k_star_doortif
-Writing texture: kkj_k_teppann2tif
-Writing texture: kkj_k_tutitif
-Writing texture: kkj_k_walltif
-Writing texture: kkj_k_yuka2tif
-Writing texture: kkj_k_yuka4tif
-Writing texture: kkj_kabe_blocktif
-Writing texture: kkj_kabe_edgetif
-Writing texture: kkj_kabekazaritif
-Writing texture: kkj_kabin3tif
-Writing texture: kkj_kabintif
-Writing texture: kkj_kagetif
-Writing texture: kkj_kagotif
-Writing texture: kkj_kazaritif
-Writing texture: kkj_kinoita3tif
-Writing texture: kkj_kinotif
-Writing texture: kkj_kkj_bouquettif
-Writing texture: kkj_kkj_chandeliertif
-Writing texture: kkj_kkj_kabetif
-Writing texture: kkj_kkj_planttif
-Writing texture: kkj_kkj_poletif
-Writing texture: kkj_kkj_star_doortif
-Writing texture: kkj_kkj_wall3tif
-Writing texture: kkj_kkj_walltif
-Writing texture: kkj_kusshontif
-Writing texture: kkj_long_windowtif
-Writing texture: kkj_mac_fieldtif
-Writing texture: kkj_mac_house7tif
-Writing texture: kkj_mac_house8tif
-Writing texture: kkj_mado_akaritif
-Writing texture: kkj_madotif
-Writing texture: kkj_metif
-Writing texture: kkj_nunosiwatif
-Writing texture: kkj_puropera2tif
-Writing texture: kkj_red_carpettif
-Writing texture: kkj_relieftif
-Writing texture: kkj_ropetif
-Writing texture: kkj_rousoku_ftif
-Writing texture: kkj_rousoku4tif
-Writing texture: kkj_sakutif
-Writing texture: kkj_saratif
-Writing texture: kkj_shirokabetif
-Writing texture: kkj_shiroyanetif
-Writing texture: kkj_star_door_bluetif
-Writing texture: kkj_sunlighttif
-Writing texture: kkj_tesuritif
-Writing texture: kkj_tokei_dtif
-Writing texture: kkj_tukue2tif
-Writing texture: kkj_tukuetif
-Writing texture: kkj_wall_etif
-Writing texture: kkj_wall_mtif
-Writing texture: kkj_yellow_blocktif
-Writing texture: kkj_yuka6tif
+Building texture archive: mgm_tex.txa
+Writing texture: mgm_1cointif
+Writing texture: mgm_3coinstif
+Writing texture: mgm_3timestif
+Writing texture: mgm_boardtif
+Writing texture: mgm_c1tif
+Writing texture: mgm_floortif
+Writing texture: mgm_hishitif
+Writing texture: mgm_kino_box_btif
+Writing texture: mgm_kino_box_gtif
+Writing texture: mgm_koopa_cardtif
+Writing texture: mgm_peach_cointif
+Writing texture: mgm_platetif
+Writing texture: mgm_spottif
+Writing texture: mgm_star_floortif
+Writing texture: mgm_t_dokankun3tif
 Building texture archive: pra_tex.txa
 Writing texture: pra_batutif
 Writing texture: pra_gabonn_1tif
@@ -2002,241 +2147,96 @@ Writing texture: pra_pra_zoutogetif
 Writing texture: pra_pra_zouuetif
 Writing texture: pra_s_yama1tif
 Writing texture: pra_s_yama3tif
-Building texture archive: nok_tex.txa
-Writing texture: nok_amitif
-Writing texture: nok_ana_ctif
-Writing texture: nok_back_2tif
-Writing texture: nok_berosaidetif
-Writing texture: nok_block_ctif
-Writing texture: nok_blook2tif
-Writing texture: nok_blooktif
-Writing texture: nok_dec_planttif
-Writing texture: nok_flower_02tif
-Writing texture: nok_frametif
-Writing texture: nok_g_and_btif
-Writing texture: nok_green_etif
-Writing texture: nok_hana_btif
-Writing texture: nok_hana_ftif
-Writing texture: nok_hanastif
-Writing texture: nok_hapa34tif
-Writing texture: nok_hapatif
-Writing texture: nok_hashi33tif
-Writing texture: nok_hon2tif
-Writing texture: nok_hontif
-Writing texture: nok_huton_02tif
-Writing texture: nok_itatif
-Writing texture: nok_iwa_atif
-Writing texture: nok_jimentif
-Writing texture: nok_kabe10tif
-Writing texture: nok_kabe12_btif
-Writing texture: nok_kabe12_wtif
-Writing texture: nok_kabe12tif
-Writing texture: nok_kabe6tif
-Writing texture: nok_kabe8tif
-Writing texture: nok_kabegami_3tif
-Writing texture: nok_kabegami_ftif
-Writing texture: nok_kabekusatif
-Writing texture: nok_kabetif
-Writing texture: nok_kanban4tif
-Writing texture: nok_kanban6tif
-Writing texture: nok_kinopiotif
-Writing texture: nok_kirakiratif
-Writing texture: nok_kishikakutif
-Writing texture: nok_kusakusa1tif
-Writing texture: nok_kusatif
-Writing texture: nok_log_sidetif
-Writing texture: nok_mac_fieldtif
-Writing texture: nok_mac_house7tif
-Writing texture: nok_mac_house8tif
-Writing texture: nok_mac_sakutif
-Writing texture: nok_mado_9tif
-Writing texture: nok_midori03tif
-Writing texture: nok_miki4tif
-Writing texture: nok_n_yasihatif
-Writing texture: nok_n_yasikitif
-Writing texture: nok_nagaretif
-Writing texture: nok_nok_suimentif
-Writing texture: nok_radio2tif
-Writing texture: nok_reef_htif
-Writing texture: nok_reef_i_kukitif
-Writing texture: nok_ren_atif
-Writing texture: nok_renga_edgetif
-Writing texture: nok_renga10tif
-Writing texture: nok_renga12tif
-Writing texture: nok_sabaku_btif
-Writing texture: nok_sakusakutif
-Writing texture: nok_sakusatif
-Writing texture: nok_sakutif
-Writing texture: nok_simatif
-Writing texture: nok_t_dokankun3tif
-Writing texture: nok_tana_1tif
-Writing texture: nok_tana_3tif
-Writing texture: nok_tana_ctif
-Writing texture: nok_temae1tif
-Writing texture: nok_tesuritif
-Writing texture: nok_tizutif
-Writing texture: nok_turu_1tif
-Writing texture: nok_wall_mtif
-Writing texture: nok_water_sokotif
-Writing texture: nok_wood_floor_ctif
-Writing texture: nok_yuka3tif
-Writing texture: nok_yuka6tif
-Writing texture: nok_yuka7tif
-Writing texture: nok_yukatif
-Building texture archive: kpa_tex.txa
-Writing texture: kpa_akari02tif
-Writing texture: kpa_ana_ctif
-Writing texture: kpa_backtif
-Writing texture: kpa_batu01tif
-Writing texture: kpa_berosaidetif
-Writing texture: kpa_chandeliertif
-Writing texture: kpa_coin3tif
-Writing texture: kpa_doa2tif
-Writing texture: kpa_edge_atif
-Writing texture: kpa_floor_btif
-Writing texture: kpa_floor_ctif
-Writing texture: kpa_floortif
-Writing texture: kpa_grayframetif
-Writing texture: kpa_hi_01tif
-Writing texture: kpa_hitif
-Writing texture: kpa_iwa_bigtif
-Writing texture: kpa_iwagattaitif
-Writing texture: kpa_jimtif
-Writing texture: kpa_jutantif
-Writing texture: kpa_k_ana02tif
-Writing texture: kpa_k_sakutif
-Writing texture: kpa_k_taki1tif
-Writing texture: kpa_kabe_blocktif
-Writing texture: kpa_kabe12btif
-Writing texture: kpa_kabe12tif
-Writing texture: kpa_kabe17tif
-Writing texture: kpa_kabe18tif
-Writing texture: kpa_kabe19tif
-Writing texture: kpa_kabe4btif
-Writing texture: kpa_kabe4tif
-Writing texture: kpa_kabe8btif
-Writing texture: kpa_kabe8tif
-Writing texture: kpa_kinoitatif
-Writing texture: kpa_kpa_greentif
-Writing texture: kpa_kpa_hako10tif
-Writing texture: kpa_kpa_hako6tif
-Writing texture: kpa_kpa_madotif
-Writing texture: kpa_kpa_yaritif
-Writing texture: kpa_kpa_yohane2tif
-Writing texture: kpa_kpa_yohane3tif
-Writing texture: kpa_kpa5_eyetif
-Writing texture: kpa_kpasmoketif
-Writing texture: kpa_kumo2tif
-Writing texture: kpa_kumotif
-Writing texture: kpa_kup_floor1tif
-Writing texture: kpa_kup_floor2tif
-Writing texture: kpa_kup_kumo1tif
-Writing texture: kpa_kup_wall1tif
-Writing texture: kpa_kup_wall2tif
-Writing texture: kpa_kup_wall3tif
-Writing texture: kpa_kup_wall4tif
-Writing texture: kpa_kup_window1tif
-Writing texture: kpa_kuppatif
-Writing texture: kpa_kusari_uetif
-Writing texture: kpa_kusaritif
-Writing texture: kpa_maru01tif
-Writing texture: kpa_me_atif
-Writing texture: kpa_mtif
-Writing texture: kpa_patarntif
-Writing texture: kpa_plane_blocktif
-Writing texture: kpa_renga_btif
-Writing texture: kpa_ryusei_gou_btif
-Writing texture: kpa_ryusei_goutif
-Writing texture: kpa_shirokabetif
-Writing texture: kpa_shiroyanetif
-Writing texture: kpa_star_doortif
-Writing texture: kpa_sui1tif
-Writing texture: kpa_syounyuudou2tif
-Writing texture: kpa_syounyuudou4tif
-Writing texture: kpa_t_marutif
-Writing texture: kpa_tesuri2tif
-Writing texture: kpa_to_wall_aatif
-Writing texture: kpa_togetif
-Writing texture: kpa_trd_kusaritif
-Writing texture: kpa_tsubotif
-Writing texture: kpa_wall_atif
-Writing texture: kpa_wall_btif
-Writing texture: kpa_wall_ctif
-Writing texture: kpa_wall_dtif
-Writing texture: kpa_wall_ftif
-Writing texture: kpa_water3tif
-Writing texture: kpa_windowtif
-Writing texture: kpa_yellow_blocktif
-Writing texture: kpa_yogan04tif
-Writing texture: kpa_yougan05tif
-Writing texture: kpa_yuka2tif
-Writing texture: kpa_yuka3tif
-Writing texture: kpa_yuka5tif
-Writing texture: kpa_yukatif
-Writing texture: kpa_zyou1tif
-Writing texture: kpa_zyou2tif
-Writing texture: kpa_zyou3tif
-Building texture archive: tst_tex.txa
-Writing texture: tst_berosaidetif
-Writing texture: tst_c_block02rgb
-Writing texture: tst_dokantif
-Writing texture: tst_flo_kusa1tif
-Writing texture: tst_flo_kusa2tif
-Writing texture: tst_flo_roadtif
-Writing texture: tst_flower_ac4tif
-Writing texture: tst_flower_edge3tif
-Writing texture: tst_flower_field3tif
-Writing texture: tst_flower_top2tif
-Writing texture: tst_flower_top3tif
-Writing texture: tst_frametif
-Writing texture: tst_green_etif
-Writing texture: tst_hana_ftif
-Writing texture: tst_hanatabatif
-Writing texture: tst_happa2tif
-Writing texture: tst_hashi33tif
-Writing texture: tst_hi_blocktif
-Writing texture: tst_ibaratif
-Writing texture: tst_ichimatsu1tif
-Writing texture: tst_ichimatsu4tif
-Writing texture: tst_itatif
-Writing texture: tst_kabe12_wtif
-Writing texture: tst_kabe12tif
-Writing texture: tst_ki_atif
-Writing texture: tst_kinoha5tif
-Writing texture: tst_kinoita2tif
-Writing texture: tst_kirakiratif
-Writing texture: tst_kuki3tif
-Writing texture: tst_log_sidetif
-Writing texture: tst_mac_fieldtif
-Writing texture: tst_mario_rtif
-Writing texture: tst_miki4tif
-Writing texture: tst_mikitif
-Writing texture: tst_pra_backtif
-Writing texture: tst_pra_field2tif
-Writing texture: tst_pra_field4tif
-Writing texture: tst_pra_hasgira2tif
-Writing texture: tst_pra_hashiratif
-Writing texture: tst_pra_icetif
-Writing texture: tst_pra_walltif
-Writing texture: tst_reef_etif
-Writing texture: tst_reef_ktif
-Writing texture: tst_renga_edgetif
-Writing texture: tst_renga10tif
-Writing texture: tst_renga2tif
-Writing texture: tst_rengatif
-Writing texture: tst_s_roadberotif
-Writing texture: tst_s_roadtif
-Writing texture: tst_sirohanatif
-Writing texture: tst_togetif
-Writing texture: tst_water_sokotif
-Writing texture: tst_wood_ctif
-Writing texture: tst_wood_floor_ctif
-Writing texture: tst_wooden_boardtif
-Writing texture: tst_woody_plate_btif
-Writing texture: tst_woody_plate_itif
-Writing texture: tst_yougan_sidetif
-Writing texture: tst_yougantif
-Writing texture: tst_yuka2tif
+Building texture archive: sam_tex.txa
+Writing texture: sam_berosaidetif
+Writing texture: sam_binn2tif
+Writing texture: sam_bintif
+Writing texture: sam_dannro02tif
+Writing texture: sam_doa1tif
+Writing texture: sam_dokankuntif
+Writing texture: sam_flower_02tif
+Writing texture: sam_frametif
+Writing texture: sam_grayframetif
+Writing texture: sam_hasira1tif
+Writing texture: sam_himo01tif
+Writing texture: sam_hon01tif
+Writing texture: sam_hon02tif
+Writing texture: sam_hon03tif
+Writing texture: sam_hon04tif
+Writing texture: sam_hon2tif
+Writing texture: sam_hon3tif
+Writing texture: sam_hontif
+Writing texture: sam_ice3tif
+Writing texture: sam_kago2tif
+Writing texture: sam_kagotif
+Writing texture: sam_kakigouri1tif
+Writing texture: sam_kakigouri2tif
+Writing texture: sam_kami02tif
+Writing texture: sam_kami03tif
+Writing texture: sam_kazari2tif
+Writing texture: sam_keito1tif
+Writing texture: sam_ki3tif
+Writing texture: sam_kinoitatif
+Writing texture: sam_kinopiotif
+Writing texture: sam_nabe_atif
+Writing texture: sam_nabe_btif
+Writing texture: sam_nabe_ctif
+Writing texture: sam_nabe_dtif
+Writing texture: sam_odo_iwahashi3tif
+Writing texture: sam_odo_iwatif
+Writing texture: sam_pen_snow2tif
+Writing texture: sam_pen_snow3tif
+Writing texture: sam_pen_snowtif
+Writing texture: sam_ranpu01tif
+Writing texture: sam_s_anatif
+Writing texture: sam_s_dannro1tif
+Writing texture: sam_s_dannro2tif
+Writing texture: sam_s_danro3tif
+Writing texture: sam_s_danro4tif
+Writing texture: sam_s_doa1tif
+Writing texture: sam_s_doa2tif
+Writing texture: sam_s_doatif
+Writing texture: sam_s_futon2tif
+Writing texture: sam_s_futon3tif
+Writing texture: sam_s_kabe1tif
+Writing texture: sam_s_kabe2tif
+Writing texture: sam_s_kabe3tif
+Writing texture: sam_s_kabetif
+Writing texture: sam_s_kazari1tif
+Writing texture: sam_s_kemutif
+Writing texture: sam_s_kesyou2tif
+Writing texture: sam_s_mado1tif
+Writing texture: sam_s_mado2tif
+Writing texture: sam_s_mafuretif
+Writing texture: sam_s_metif
+Writing texture: sam_s_road1tif
+Writing texture: sam_s_saku3tif
+Writing texture: sam_s_sakutif
+Writing texture: sam_s_treetif
+Writing texture: sam_s_turara2tif
+Writing texture: sam_s_zyuutantif
+Writing texture: sam_sam_block01tif
+Writing texture: sam_star1tif
+Writing texture: sam_sui01tif
+Writing texture: sam_t_chear2tif
+Writing texture: sam_t_cheartif
+Writing texture: sam_t_dokankun3tif
+Writing texture: sam_t_katen1tif
+Writing texture: sam_taru1tif
+Writing texture: sam_woody_plate_jtif
+Writing texture: sam_yamatif
+Writing texture: sam_yane_yukitif
+Building texture archive: kgr_tex.txa
+Writing texture: kgr_binn2tif
+Writing texture: kgr_grayframetif
+Writing texture: kgr_kinoitatif
+Writing texture: kgr_m_honetif
+Writing texture: kgr_m_kabe2tif
+Writing texture: kgr_m_kabetif
+Writing texture: kgr_mac_berotif
+Writing texture: kgr_mac_doortif
+Writing texture: kgr_mac_house2tif
+Writing texture: kgr_water3tif
 Building backgrounds...
 Writing map assets...
 Writing resource: kmr_00_shape
@@ -3307,509 +3307,5 @@ Wrote Move_ShrinkStomp.bin to 780CB0
 Wrote Move_EarthquakeJump.bin to 782C30
 Patching sprite sheets...
 Loading player sprites...
-Writing player sprite 01 of 0D...
-Wrote player sprite 00 to 19E09A8
-Writing player sprite 02 of 0D...
-Wrote player sprite 01 to 19E139A
-Writing player sprite 03 of 0D...
-Wrote player sprite 02 to 19E1896
-Writing player sprite 04 of 0D...
-Wrote player sprite 03 to 19E2342
-Writing player sprite 05 of 0D...
-Wrote player sprite 04 to 19E2DF6
-Writing player sprite 06 of 0D...
-Wrote player sprite 05 to 19E3224
-Writing player sprite 07 of 0D...
-Wrote player sprite 06 to 19E3BCC
-Writing player sprite 08 of 0D...
-Wrote player sprite 07 to 19E3FF4
-Writing player sprite 09 of 0D...
-Wrote player sprite 08 to 19E4846
-Writing player sprite 0A of 0D...
-Wrote player sprite 09 to 19E4C06
-Writing player sprite 0B of 0D...
-Wrote player sprite 0A to 19E5786
-Writing player sprite 0C of 0D...
-Wrote player sprite 0B to 19E597E
-Writing player sprite 0D of 0D...
-Wrote player sprite 0C to 19E62DA
-Writing NPC sprite 01 of E9...
-Wrote NPC sprite 01 to 19E6BA0
-Writing NPC sprite 02 of E9...
-Wrote NPC sprite 02 to 19E7562
-Writing NPC sprite 03 of E9...
-Wrote NPC sprite 03 to 19E9774
-Writing NPC sprite 04 of E9...
-Wrote NPC sprite 04 to 19EAEDE
-Writing NPC sprite 05 of E9...
-Wrote NPC sprite 05 to 19EC466
-Writing NPC sprite 06 of E9...
-Wrote NPC sprite 06 to 19EDC90
-Writing NPC sprite 07 of E9...
-Wrote NPC sprite 07 to 19EEA62
-Writing NPC sprite 08 of E9...
-Wrote NPC sprite 08 to 19EFF92
-Writing NPC sprite 09 of E9...
-Wrote NPC sprite 09 to 19F14A4
-Writing NPC sprite 0A of E9...
-Wrote NPC sprite 0A to 19F25CA
-Writing NPC sprite 0B of E9...
-Wrote NPC sprite 0B to 19F5236
-Writing NPC sprite 0C of E9...
-Wrote NPC sprite 0C to 19F71BC
-Writing NPC sprite 0D of E9...
-Wrote NPC sprite 0D to 19F9EF6
-Writing NPC sprite 0E of E9...
-Wrote NPC sprite 0E to 19FC850
-Writing NPC sprite 0F of E9...
-Wrote NPC sprite 0F to 19FEA8E
-Writing NPC sprite 10 of E9...
-Wrote NPC sprite 10 to 1A0064E
-Writing NPC sprite 11 of E9...
-Wrote NPC sprite 11 to 1A0298A
-Writing NPC sprite 12 of E9...
-Wrote NPC sprite 12 to 1A0405E
-Writing NPC sprite 13 of E9...
-Wrote NPC sprite 13 to 1A05184
-Writing NPC sprite 14 of E9...
-Wrote NPC sprite 14 to 1A05F96
-Writing NPC sprite 15 of E9...
-Wrote NPC sprite 15 to 1A06B88
-Writing NPC sprite 16 of E9...
-Wrote NPC sprite 16 to 1A0773E
-Writing NPC sprite 17 of E9...
-Wrote NPC sprite 17 to 1A09C0E
-Writing NPC sprite 18 of E9...
-Wrote NPC sprite 18 to 1A0A81A
-Writing NPC sprite 19 of E9...
-Wrote NPC sprite 19 to 1A0B2BA
-Writing NPC sprite 1A of E9...
-Wrote NPC sprite 1A to 1A0B712
-Writing NPC sprite 1B of E9...
-Wrote NPC sprite 1B to 1A0BB28
-Writing NPC sprite 1C of E9...
-Wrote NPC sprite 1C to 1A0BF5C
-Writing NPC sprite 1D of E9...
-Wrote NPC sprite 1D to 1A0C378
-Writing NPC sprite 1E of E9...
-Wrote NPC sprite 1E to 1A0CCE8
-Writing NPC sprite 1F of E9...
-Wrote NPC sprite 1F to 1A0D0AA
-Writing NPC sprite 20 of E9...
-Wrote NPC sprite 20 to 1A0D466
-Writing NPC sprite 21 of E9...
-Wrote NPC sprite 21 to 1A0E9BA
-Writing NPC sprite 22 of E9...
-Wrote NPC sprite 22 to 1A13316
-Writing NPC sprite 23 of E9...
-Wrote NPC sprite 23 to 1A15208
-Writing NPC sprite 24 of E9...
-Wrote NPC sprite 24 to 1A17D3C
-Writing NPC sprite 25 of E9...
-Wrote NPC sprite 25 to 1A19F04
-Writing NPC sprite 26 of E9...
-Wrote NPC sprite 26 to 1A1BE88
-Writing NPC sprite 27 of E9...
-Wrote NPC sprite 27 to 1A1CF5E
-Writing NPC sprite 28 of E9...
-Wrote NPC sprite 28 to 1A1DCFA
-Writing NPC sprite 29 of E9...
-Wrote NPC sprite 29 to 1A1EBE4
-Writing NPC sprite 2A of E9...
-Wrote NPC sprite 2A to 1A21EC0
-Writing NPC sprite 2B of E9...
-Wrote NPC sprite 2B to 1A24194
-Writing NPC sprite 2C of E9...
-Wrote NPC sprite 2C to 1A2561A
-Writing NPC sprite 2D of E9...
-Wrote NPC sprite 2D to 1A27758
-Writing NPC sprite 2E of E9...
-Wrote NPC sprite 2E to 1A28324
-Writing NPC sprite 2F of E9...
-Wrote NPC sprite 2F to 1A28DAE
-Writing NPC sprite 30 of E9...
-Wrote NPC sprite 30 to 1A2B356
-Writing NPC sprite 31 of E9...
-Wrote NPC sprite 31 to 1A2D7AC
-Writing NPC sprite 32 of E9...
-Wrote NPC sprite 32 to 1A2EA70
-Writing NPC sprite 33 of E9...
-Wrote NPC sprite 33 to 1A3134C
-Writing NPC sprite 34 of E9...
-Wrote NPC sprite 34 to 1A330CE
-Writing NPC sprite 35 of E9...
-Wrote NPC sprite 35 to 1A35176
-Writing NPC sprite 36 of E9...
-Wrote NPC sprite 36 to 1A35F4A
-Writing NPC sprite 37 of E9...
-Wrote NPC sprite 37 to 1A38B24
-Writing NPC sprite 38 of E9...
-Wrote NPC sprite 38 to 1A3A4E4
-Writing NPC sprite 39 of E9...
-Wrote NPC sprite 39 to 1A3B7BE
-Writing NPC sprite 3A of E9...
-Wrote NPC sprite 3A to 1A3F0C2
-Writing NPC sprite 3B of E9...
-Wrote NPC sprite 3B to 1A4174A
-Writing NPC sprite 3C of E9...
-Wrote NPC sprite 3C to 1A43CE8
-Writing NPC sprite 3D of E9...
-Wrote NPC sprite 3D to 1A4585A
-Writing NPC sprite 3E of E9...
-Wrote NPC sprite 3E to 1A485B6
-Writing NPC sprite 3F of E9...
-Wrote NPC sprite 3F to 1A49EB4
-Writing NPC sprite 40 of E9...
-Wrote NPC sprite 40 to 1A4C9BA
-Writing NPC sprite 41 of E9...
-Wrote NPC sprite 41 to 1A4D1EC
-Writing NPC sprite 42 of E9...
-Wrote NPC sprite 42 to 1A4EBC2
-Writing NPC sprite 43 of E9...
-Wrote NPC sprite 43 to 1A522CE
-Writing NPC sprite 44 of E9...
-Wrote NPC sprite 44 to 1A52E26
-Writing NPC sprite 45 of E9...
-Wrote NPC sprite 45 to 1A55CBC
-Writing NPC sprite 46 of E9...
-Wrote NPC sprite 46 to 1A57F2A
-Writing NPC sprite 47 of E9...
-Wrote NPC sprite 47 to 1A5952A
-Writing NPC sprite 48 of E9...
-Wrote NPC sprite 48 to 1A618FE
-Writing NPC sprite 49 of E9...
-Wrote NPC sprite 49 to 1A62F88
-Writing NPC sprite 4A of E9...
-Wrote NPC sprite 4A to 1A6542E
-Writing NPC sprite 4B of E9...
-Wrote NPC sprite 4B to 1A67578
-Writing NPC sprite 4C of E9...
-Wrote NPC sprite 4C to 1A6B2AC
-Writing NPC sprite 4D of E9...
-Wrote NPC sprite 4D to 1A6C1EA
-Writing NPC sprite 4E of E9...
-Wrote NPC sprite 4E to 1A6DB72
-Writing NPC sprite 4F of E9...
-Wrote NPC sprite 4F to 1A6FB86
-Writing NPC sprite 50 of E9...
-Wrote NPC sprite 50 to 1A73A9A
-Writing NPC sprite 51 of E9...
-Wrote NPC sprite 51 to 1A77474
-Writing NPC sprite 52 of E9...
-Wrote NPC sprite 52 to 1A7831C
-Writing NPC sprite 53 of E9...
-Wrote NPC sprite 53 to 1A7C0CE
-Writing NPC sprite 54 of E9...
-Wrote NPC sprite 54 to 1A7D7B2
-Writing NPC sprite 55 of E9...
-Wrote NPC sprite 55 to 1A7D8EA
-Writing NPC sprite 56 of E9...
-Wrote NPC sprite 56 to 1A81CBE
-Writing NPC sprite 57 of E9...
-Wrote NPC sprite 57 to 1A83E80
-Writing NPC sprite 58 of E9...
-Wrote NPC sprite 58 to 1A8611A
-Writing NPC sprite 59 of E9...
-Wrote NPC sprite 59 to 1A8A6BC
-Writing NPC sprite 5A of E9...
-Wrote NPC sprite 5A to 1A8E4C4
-Writing NPC sprite 5B of E9...
-Wrote NPC sprite 5B to 1A924A8
-Writing NPC sprite 5C of E9...
-Wrote NPC sprite 5C to 1A92788
-Writing NPC sprite 5D of E9...
-Wrote NPC sprite 5D to 1A92A7E
-Writing NPC sprite 5E of E9...
-Wrote NPC sprite 5E to 1A92CA2
-Writing NPC sprite 5F of E9...
-Wrote NPC sprite 5F to 1A92FF6
-Writing NPC sprite 60 of E9...
-Wrote NPC sprite 60 to 1A9324C
-Writing NPC sprite 61 of E9...
-Wrote NPC sprite 61 to 1A972BE
-Writing NPC sprite 62 of E9...
-Wrote NPC sprite 62 to 1A99F18
-Writing NPC sprite 63 of E9...
-Wrote NPC sprite 63 to 1A9BFB2
-Writing NPC sprite 64 of E9...
-Wrote NPC sprite 64 to 1A9E436
-Writing NPC sprite 65 of E9...
-Wrote NPC sprite 65 to 1A9EA7E
-Writing NPC sprite 66 of E9...
-Wrote NPC sprite 66 to 1A9F3E0
-Writing NPC sprite 67 of E9...
-Wrote NPC sprite 67 to 1AA5028
-Writing NPC sprite 68 of E9...
-Wrote NPC sprite 68 to 1AAB77C
-Writing NPC sprite 69 of E9...
-Wrote NPC sprite 69 to 1AAFD00
-Writing NPC sprite 6A of E9...
-Wrote NPC sprite 6A to 1AB045C
-Writing NPC sprite 6B of E9...
-Wrote NPC sprite 6B to 1AB8194
-Writing NPC sprite 6C of E9...
-Wrote NPC sprite 6C to 1ABF1E2
-Writing NPC sprite 6D of E9...
-Wrote NPC sprite 6D to 1AC15E0
-Writing NPC sprite 6E of E9...
-Wrote NPC sprite 6E to 1AC97BE
-Writing NPC sprite 6F of E9...
-Wrote NPC sprite 6F to 1ACBB36
-Writing NPC sprite 70 of E9...
-Wrote NPC sprite 70 to 1ACD3B2
-Writing NPC sprite 71 of E9...
-Wrote NPC sprite 71 to 1ACE160
-Writing NPC sprite 72 of E9...
-Wrote NPC sprite 72 to 1ACE61A
-Writing NPC sprite 73 of E9...
-Wrote NPC sprite 73 to 1ACF8FC
-Writing NPC sprite 74 of E9...
-Wrote NPC sprite 74 to 1ACFDB2
-Writing NPC sprite 75 of E9...
-Wrote NPC sprite 75 to 1AD0256
-Writing NPC sprite 76 of E9...
-Wrote NPC sprite 76 to 1AD0306
-Writing NPC sprite 77 of E9...
-Wrote NPC sprite 77 to 1AD1F02
-Writing NPC sprite 78 of E9...
-Wrote NPC sprite 78 to 1AD2164
-Writing NPC sprite 79 of E9...
-Wrote NPC sprite 79 to 1AD31AC
-Writing NPC sprite 7A of E9...
-Wrote NPC sprite 7A to 1AD7620
-Writing NPC sprite 7B of E9...
-Wrote NPC sprite 7B to 1AD7D54
-Writing NPC sprite 7C of E9...
-Wrote NPC sprite 7C to 1ADA7E6
-Writing NPC sprite 7D of E9...
-Wrote NPC sprite 7D to 1ADF7F8
-Writing NPC sprite 7E of E9...
-Wrote NPC sprite 7E to 1AE0504
-Writing NPC sprite 7F of E9...
-Wrote NPC sprite 7F to 1AE3F76
-Writing NPC sprite 80 of E9...
-Wrote NPC sprite 80 to 1AE8BD6
-Writing NPC sprite 81 of E9...
-Wrote NPC sprite 81 to 1AF1C2E
-Writing NPC sprite 82 of E9...
-Wrote NPC sprite 82 to 1AF9C8E
-Writing NPC sprite 83 of E9...
-Wrote NPC sprite 83 to 1AFC852
-Writing NPC sprite 84 of E9...
-Wrote NPC sprite 84 to 1AFD738
-Writing NPC sprite 85 of E9...
-Wrote NPC sprite 85 to 1AFE472
-Writing NPC sprite 86 of E9...
-Wrote NPC sprite 86 to 1AFECDE
-Writing NPC sprite 87 of E9...
-Wrote NPC sprite 87 to 1AFF200
-Writing NPC sprite 88 of E9...
-Wrote NPC sprite 88 to 1AFFA3C
-Writing NPC sprite 89 of E9...
-Wrote NPC sprite 89 to 1B001DE
-Writing NPC sprite 8A of E9...
-Wrote NPC sprite 8A to 1B00CCC
-Writing NPC sprite 8B of E9...
-Wrote NPC sprite 8B to 1B01680
-Writing NPC sprite 8C of E9...
-Wrote NPC sprite 8C to 1B0203C
-Writing NPC sprite 8D of E9...
-Wrote NPC sprite 8D to 1B02A00
-Writing NPC sprite 8E of E9...
-Wrote NPC sprite 8E to 1B03CC8
-Writing NPC sprite 8F of E9...
-Wrote NPC sprite 8F to 1B04C78
-Writing NPC sprite 90 of E9...
-Wrote NPC sprite 90 to 1B0643C
-Writing NPC sprite 91 of E9...
-Wrote NPC sprite 91 to 1B08252
-Writing NPC sprite 92 of E9...
-Wrote NPC sprite 92 to 1B08956
-Writing NPC sprite 93 of E9...
-Wrote NPC sprite 93 to 1B094E4
-Writing NPC sprite 94 of E9...
-Wrote NPC sprite 94 to 1B09A54
-Writing NPC sprite 95 of E9...
-Wrote NPC sprite 95 to 1B0A0BC
-Writing NPC sprite 96 of E9...
-Wrote NPC sprite 96 to 1B0BABC
-Writing NPC sprite 97 of E9...
-Wrote NPC sprite 97 to 1B0DBC0
-Writing NPC sprite 98 of E9...
-Wrote NPC sprite 98 to 1B0F868
-Writing NPC sprite 99 of E9...
-Wrote NPC sprite 99 to 1B103D6
-Writing NPC sprite 9A of E9...
-Wrote NPC sprite 9A to 1B1322C
-Writing NPC sprite 9B of E9...
-Wrote NPC sprite 9B to 1B13F1C
-Writing NPC sprite 9C of E9...
-Wrote NPC sprite 9C to 1B1462A
-Writing NPC sprite 9D of E9...
-Wrote NPC sprite 9D to 1B160CC
-Writing NPC sprite 9E of E9...
-Wrote NPC sprite 9E to 1B16DDC
-Writing NPC sprite 9F of E9...
-Wrote NPC sprite 9F to 1B18654
-Writing NPC sprite A0 of E9...
-Wrote NPC sprite A0 to 1B18A0E
-Writing NPC sprite A1 of E9...
-Wrote NPC sprite A1 to 1B194F8
-Writing NPC sprite A2 of E9...
-Wrote NPC sprite A2 to 1B19A7E
-Writing NPC sprite A3 of E9...
-Wrote NPC sprite A3 to 1B1E8D0
-Writing NPC sprite A4 of E9...
-Wrote NPC sprite A4 to 1B1FEF0
-Writing NPC sprite A5 of E9...
-Wrote NPC sprite A5 to 1B21FD0
-Writing NPC sprite A6 of E9...
-Wrote NPC sprite A6 to 1B2322E
-Writing NPC sprite A7 of E9...
-Wrote NPC sprite A7 to 1B24F66
-Writing NPC sprite A8 of E9...
-Wrote NPC sprite A8 to 1B26798
-Writing NPC sprite A9 of E9...
-Wrote NPC sprite A9 to 1B271B2
-Writing NPC sprite AA of E9...
-Wrote NPC sprite AA to 1B27EFA
-Writing NPC sprite AB of E9...
-Wrote NPC sprite AB to 1B293D2
-Writing NPC sprite AC of E9...
-Wrote NPC sprite AC to 1B2A296
-Writing NPC sprite AD of E9...
-Wrote NPC sprite AD to 1B2ADFA
-Writing NPC sprite AE of E9...
-Wrote NPC sprite AE to 1B2B826
-Writing NPC sprite AF of E9...
-Wrote NPC sprite AF to 1B2C4C4
-Writing NPC sprite B0 of E9...
-Wrote NPC sprite B0 to 1B2E466
-Writing NPC sprite B1 of E9...
-Wrote NPC sprite B1 to 1B2FA0A
-Writing NPC sprite B2 of E9...
-Wrote NPC sprite B2 to 1B30A78
-Writing NPC sprite B3 of E9...
-Wrote NPC sprite B3 to 1B312F6
-Writing NPC sprite B4 of E9...
-Wrote NPC sprite B4 to 1B315C8
-Writing NPC sprite B5 of E9...
-Wrote NPC sprite B5 to 1B31E3A
-Writing NPC sprite B6 of E9...
-Wrote NPC sprite B6 to 1B32DE8
-Writing NPC sprite B7 of E9...
-Wrote NPC sprite B7 to 1B350BE
-Writing NPC sprite B8 of E9...
-Wrote NPC sprite B8 to 1B363F4
-Writing NPC sprite B9 of E9...
-Wrote NPC sprite B9 to 1B36C2C
-Writing NPC sprite BA of E9...
-Wrote NPC sprite BA to 1B37156
-Writing NPC sprite BB of E9...
-Wrote NPC sprite BB to 1B38D8E
-Writing NPC sprite BC of E9...
-Wrote NPC sprite BC to 1B393C0
-Writing NPC sprite BD of E9...
-Wrote NPC sprite BD to 1B39988
-Writing NPC sprite BE of E9...
-Wrote NPC sprite BE to 1B3A1F0
-Writing NPC sprite BF of E9...
-Wrote NPC sprite BF to 1B3B8F8
-Writing NPC sprite C0 of E9...
-Wrote NPC sprite C0 to 1B3C8C6
-Writing NPC sprite C1 of E9...
-Wrote NPC sprite C1 to 1B3CF82
-Writing NPC sprite C2 of E9...
-Wrote NPC sprite C2 to 1B45C28
-Writing NPC sprite C3 of E9...
-Wrote NPC sprite C3 to 1B48A28
-Writing NPC sprite C4 of E9...
-Wrote NPC sprite C4 to 1B4A48A
-Writing NPC sprite C5 of E9...
-Wrote NPC sprite C5 to 1B4C2F4
-Writing NPC sprite C6 of E9...
-Wrote NPC sprite C6 to 1B4D20C
-Writing NPC sprite C7 of E9...
-Wrote NPC sprite C7 to 1B4DFFA
-Writing NPC sprite C8 of E9...
-Wrote NPC sprite C8 to 1B506B6
-Writing NPC sprite C9 of E9...
-Wrote NPC sprite C9 to 1B54410
-Writing NPC sprite CA of E9...
-Wrote NPC sprite CA to 1B56540
-Writing NPC sprite CB of E9...
-Wrote NPC sprite CB to 1B57E2A
-Writing NPC sprite CC of E9...
-Wrote NPC sprite CC to 1B58F1E
-Writing NPC sprite CD of E9...
-Wrote NPC sprite CD to 1B5ABB4
-Writing NPC sprite CE of E9...
-Wrote NPC sprite CE to 1B5AFC4
-Writing NPC sprite CF of E9...
-Wrote NPC sprite CF to 1B5CAAA
-Writing NPC sprite D0 of E9...
-Wrote NPC sprite D0 to 1B5E7A4
-Writing NPC sprite D1 of E9...
-Wrote NPC sprite D1 to 1B5F54E
-Writing NPC sprite D2 of E9...
-Wrote NPC sprite D2 to 1B609CC
-Writing NPC sprite D3 of E9...
-Wrote NPC sprite D3 to 1B61918
-Writing NPC sprite D4 of E9...
-Wrote NPC sprite D4 to 1B61B3C
-Writing NPC sprite D5 of E9...
-Wrote NPC sprite D5 to 1B61F76
-Writing NPC sprite D6 of E9...
-Wrote NPC sprite D6 to 1B62358
-Writing NPC sprite D7 of E9...
-Wrote NPC sprite D7 to 1B6562A
-Writing NPC sprite D8 of E9...
-Wrote NPC sprite D8 to 1B6836A
-Writing NPC sprite D9 of E9...
-Wrote NPC sprite D9 to 1B69D82
-Writing NPC sprite DA of E9...
-Wrote NPC sprite DA to 1B6B10A
-Writing NPC sprite DB of E9...
-Wrote NPC sprite DB to 1B6D5BA
-Writing NPC sprite DC of E9...
-Wrote NPC sprite DC to 1B6E806
-Writing NPC sprite DD of E9...
-Wrote NPC sprite DD to 1B6FA66
-Writing NPC sprite DE of E9...
-Wrote NPC sprite DE to 1B706EA
-Writing NPC sprite DF of E9...
-Wrote NPC sprite DF to 1B72D2E
-Writing NPC sprite E0 of E9...
-Wrote NPC sprite E0 to 1B74D8E
-Writing NPC sprite E1 of E9...
-Wrote NPC sprite E1 to 1B758DA
-Writing NPC sprite E2 of E9...
-Wrote NPC sprite E2 to 1B75DBA
-Writing NPC sprite E3 of E9...
-Wrote NPC sprite E3 to 1B768A4
-Writing NPC sprite E4 of E9...
-Wrote NPC sprite E4 to 1B76E96
-Writing NPC sprite E5 of E9...
-Wrote NPC sprite E5 to 1B779AE
-Writing NPC sprite E6 of E9...
-Wrote NPC sprite E6 to 1B7AA5A
-Writing NPC sprite E7 of E9...
-Wrote NPC sprite E7 to 1B7BD1C
-Writing NPC sprite E8 of E9...
-Wrote NPC sprite E8 to 1B7DC34
-Writing NPC sprite E9 of E9...
-Wrote NPC sprite E9 to 1B7DE04
-Calculating new CRC values...
-Wrote new CRCs to ROM (16C28B92 DE63A90A)
-Empty region from 01C831F4 to 01C84D30 (1B3C bytes)
-Empty region from 0006B450 to 0006EAC0 (3670 bytes)
-Empty region from 00073DA0 to 00073E10 (70 bytes)
-Empty region from 00073E2C to 00074EA0 (1074 bytes)
-Empty region from 0279E1CC to 027FEE22 (60C56 bytes)
-Empty region from 004309A0 to 00543570 (112BD0 bytes)
-Empty region from 005573E0 to 006F0B30 (199750 bytes)
-Empty region from 00786F70 to 00789E60 (2EF0 bytes)
-Empty region from 01B7DFAC to 01B82208 (425C bytes)
-Done editing /home/itryan10229/Downloads/dump/out/Paper Mario (U) [!].z64
-Mod compilation took 56.44 seconds
-Wed Mar 18 20:34:37 EDT 2020
+Error while loading player sprite 1! Image is not color index format!
+/home/itryan10229/Downloads/dump/sprite/player/src/01/Palette_00.png
